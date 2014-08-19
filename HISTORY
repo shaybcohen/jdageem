@@ -1,0 +1,11 @@
+JDageem, version 1.01 / Shay Cohen (scohen@inf.ed.ac.uk)
+=======================================================
+
+August 19, 2014 (version 1.01):
+
+	- Better command-line parameter handling
+	- Random symmetric Dirichlet draw initialization using @dirichlet=alpha@ (where alpha > 0)
+
+December 19, 2011 (version 1.0):
+
+	- First version

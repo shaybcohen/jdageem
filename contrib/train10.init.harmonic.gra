@@ -1,0 +1,2475 @@
+rightattach WDT -> RB : -2.75894113255483
+leftattach WP <- POS : -7.16690860298444
+rightattach PRP$ -> UH : -7.69484824241959
+rightattach CC -> RB : -2.65303144536841
+leftstop JJR nochild : -0.39999148479435
+rightattach RBR -> POS : -4.86586692077349
+leftattach EX <- TO : -6.34775186984924
+root RB : -2.83610368573275
+rightattach NN -> VBZ : -2.54437760162221
+rightattach UH -> NNP : -2.66552212221497
+rightattach JJR -> VBD : -3.87395981963249
+leftattach DT <- CD : -3.05573156402153
+rightattach RBR -> UH : -6.25569565039188
+leftattach RBR <- JJ : -4.92756721624958
+leftattach VBN <- WDT : -5.87400681773425
+leftattach MD <- CC : -4.83397861288574
+leftattach NNP <- NNP : -0.852537879693112
+leftattach CC <- WP : -2.47249440407509
+rightattach CD -> CC : -4.62190853549403
+rightattach NNPS -> RBR : -5.66264528811737
+leftattach PDT <- VBZ : -7.37085815425095
+rightcontinue UH haschild : -1.07169268184368
+leftcontinue VBN nochild : -1.07787025533177
+rightattach WDT -> DT : -3.05330637700004
+rightattach NNS -> TO : -3.51773750981339
+leftattach POS <- RBR : -4.97473947769883
+rightattach RBS -> UH : -5.13644902334574
+leftattach WP <- JJR : -5.59319671871162
+rightattach NNS -> JJS : -6.79533593328212
+leftattach POS <- VB : -6.15323900869602
+rightattach CD -> RBR : -6.2375019838963
+leftattach VBG <- RB : -4.21990020958089
+leftattach NN <- RB : -2.22305836358298
+rightattach VBG -> POS : -5.58758112833391
+rightattach TO -> VBD : -5.01125984009857
+rightattach UH -> JJS : -5.01492929579851
+leftattach DT <- MD : -2.15926173657622
+leftattach WP <- RB : -5.90617133600288
+rightattach PRP$ -> VBG : -4.83395455854952
+rightcontinue CC haschild : -1.10332612462814
+leftattach CD <- RBS : -5.02140249975666
+rightattach VB -> RBS : -6.96518834643522
+rightattach FW -> POS : -3.28769174530145
+leftattach RP <- VBZ : -7.11641607296752
+root MD : -4.38060357469143
+leftattach WDT <- VBG : -6.45792843453106
+leftattach RBR <- WP : -6.03272099558112
+rightattach DT -> VBN : -4.05969402269522
+leftattach VBZ <- WDT : -3.88317256705907
+rightcontinue JJR nochild : -1.26880470909362
+rightattach JJR -> RBR : -5.47924546459555
+leftattach JJR <- POS : -6.92189793414339
+rightattach VBZ -> VBD : -5.05303315783123
+rightattach RBS -> PRP$ : -5.13644902334574
+leftattach VB <- RBR : -2.99833797812959
+rightattach JJR -> VBP : -4.22372255576091
+leftattach IN <- POS : -2.79697518496493
+leftattach VB <- NNS : -3.67117908864469
+leftattach VBP <- WP : -3.13542128280631
+leftattach UH <- WRB : -5.59460686644927
+leftattach WP <- RBR : -5.43216540424194
+rightattach NNPS -> PRP : -4.47500604978616
+leftattach RP <- VBN : -7.32189628957641
+root TO : -3.86297221843457
+rightattach NN -> JJS : -7.31813002011983
+rightattach EX -> FW : -6.53619978567726
+leftattach RP <- JJ : -6.28265981371454
+rightattach TO -> VB : -1.38674505568415
+rightattach PRP$ -> RP : -5.64635489998708
+leftattach RBS <- PDT : -5.16377521067343
+rightattach EX -> CD : -4.02351102505112
+leftattach PRP <- NNS : -4.11626589434638
+leftattach PRP <- VBD : -2.16454753472362
+leftattach VBP <- MD : -4.48931992998331
+rightstop VB nochild : -0.379967460442623
+leftattach JJ <- RBR : -3.26698903344044
+leftattach JJ <- RBS : -4.38222171521099
+rightattach POS -> VBZ : -3.10028526490821
+leftattach WRB <- VBD : -5.63570127220425
+leftattach JJS <- NNS : -5.25306838732566
+leftattach NNPS <- VB : -6.04182220323559
+rightattach JJS -> FW : -6.39156963339692
+leftattach PRP <- VBN : -3.44691472396169
+rightattach NNPS -> EX : -6.7969397759412
+rightstop PRP haschild : -0.442626019758569
+leftattach IN <- VBZ : -3.52577308522402
+leftattach VBP <- NNPS : -4.53478861907338
+leftattach DT <- PRP$ : -3.18472409071373
+leftattach VBG <- JJ : -4.35827505581728
+rightattach PRP -> VBN : -3.98477901222115
+leftattach PRP <- UH : -3.33646330698218
+root VBZ : -3.14118216937418
+leftattach RP <- WP : -6.03272099558112
+leftattach WRB <- VBZ : -5.84366239875257
+rightcontinue JJS nochild : -1.09477182908582
+leftattach CD <- UH : -4.93954097825896
+leftattach MD <- VBD : -7.03244583618322
+rightattach TO -> PRP$ : -4.80516513916249
+rightattach RB -> POS : -5.78031381859661
+leftattach WP <- PDT : -3.93211341365403
+leftattach NNPS <- UH : -4.93954097825896
+leftattach RB <- VBN : -2.15868815109682
+rightattach EX -> VBN : -4.44293460482634
+leftattach RBS <- WP : -6.03272099558112
+root JJS : -6.28625577136952
+rightattach UH -> FW : -5.01492929579851
+rightattach PDT -> CC : -5.42047121956896
+leftattach NN <- JJS : -3.13151908747254
+rightattach NN -> WRB : -7.30001357073411
+leftattach VBZ <- NNS : -3.58779891384236
+leftattach UH <- NNS : -7.98861180927254
+rightattach TO -> VBP : -6.8140660122087
+leftattach VBP <- NN : -4.08389655188993
+leftattach DT <- RBR : -2.43375044916654
+leftstop WP haschild : -0.25976281074704
+rightattach CD -> WP : -7.70413719407159
+rightstop FW haschild : -0.347999826831522
+leftattach CC <- RP : -3.93161615873563
+rightattach IN -> VBP : -4.6525150318656
+rightattach VBN -> WP : -7.03473899232905
+leftattach POS <- JJ : -4.69286080868691
+rightattach VBP -> FW : -8.4547526049641
+rightattach VBN -> RB : -2.83525209945489
+leftstop CC nochild : -0.238598390518873
+rightattach RBS -> TO : -3.53788726594035
+rightattach VBD -> PDT : -7.20533855139726
+rightattach CC -> NN : -1.9945608711696
+rightattach JJ -> WDT : -7.34076122873469
+leftattach CC <- VBG : -3.65194713235571
+leftattach RBS <- JJ : -5.81718419127476
+leftattach POS <- VBD : -5.09133696907431
+leftattach UH <- CD : -8.37568538259997
+leftattach UH <- RBR : -6.44831818631899
+leftattach WRB <- POS : -7.50171622824888
+rightattach WDT -> WP : -5.30100897445762
+rightattach RP -> WRB : -6.35619685404872
+rightattach RBR -> PRP$ : -5.17807880049767
+rightattach IN -> NNP : -2.07674572474514
+rightstop JJS haschild : -0.40125813345223
+leftattach CD <- NNS : -2.69985029811462
+rightattach JJS -> WDT : -6.39156963339692
+rightattach VBG -> UH : -6.27526753966678
+leftattach POS <- NNPS : -5.11827617038045
+rightcontinue JJ nochild : -1.1811252899644
+rightattach FW -> CD : -3.02140726093705
+rightattach NNPS -> VB : -3.82945857434352
+rightattach RB -> DT : -2.50907614045684
+leftattach PRP <- JJS : -3.59286760248678
+rightcontinue CD haschild : -1.51233586884176
+rightattach DT -> UH : -8.16720136482756
+leftattach PDT <- WP : -5.21377149019817
+rightattach RP -> FW : -4.87676963213009
+rightattach VB -> VBN : -2.78259837188488
+leftattach WP <- CC : -6.66346223259589
+leftattach FW <- TO : -8.12932343482428
+leftstop PRP haschild : -0.316530378965222
+leftattach IN <- WP : -2.57242841127086
+rightattach RP -> CD : -3.60534085983906
+rightattach NNS -> NNPS : -6.92146798536158
+leftstop CC haschild : -0.352630967178466
+leftattach FW <- PRP$ : -6.19958378061874
+rightattach WRB -> NNP : -3.52279991121264
+rightattach PDT -> NNP : -3.55890452014476
+rightattach EX -> WDT : -5.64288107017354
+root NNS : -2.53126693474509
+leftattach VBN <- UH : -4.93954097825896
+rightattach VBN -> PRP : -3.98244556750018
+rightattach NNP -> PDT : -9.32741566936283
+rightstop PDT nochild : -0.436739505018605
+rightattach VBG -> NNPS : -6.11345813754508
+rightattach CC -> WDT : -6.87592157291184
+leftattach NN <- NNS : -1.91529445290366
+rightcontinue VBN haschild : -1.32511792321901
+leftattach VBZ <- PRP : -2.97361104998399
+rightattach RP -> RB : -2.66582093113196
+rightattach CD -> VBG : -5.44116175617143
+leftattach VBD <- NNP : -3.64815607859956
+leftattach TO <- PRP$ : -3.61601413001013
+leftattach VBG <- PDT : -3.45300742810187
+leftattach PRP$ <- UH : -4.93954097825896
+rightattach RBS -> NNP : -3.44269535425327
+rightattach RBR -> NNPS : -5.65486031073355
+rightattach JJS -> NNPS : -5.16440391283397
+rightattach UH -> VB : -3.35249952429892
+leftcontinue VB nochild : -1.085252311149
+rightattach CC -> JJR : -4.73575721755118
+rightattach PDT -> PDT : -5.42047121956896
+rightattach JJS -> IN : -2.37211751988047
+leftattach JJR <- EX : -4.97106107554244
+rightattach VBZ -> WRB : -6.48701339726315
+leftattach PRP <- NNPS : -4.97782571968835
+rightattach VBD -> VBD : -4.35249490531481
+leftattach VBG <- WRB : -5.59460686644927
+leftattach NNP <- JJR : -3.13413333354013
+rightattach TO -> IN : -2.90263296715936
+leftattach MD <- PRP$ : -4.01247687275352
+leftattach DT <- WP : -2.5100914750375
+leftattach JJ <- CC : -2.45457754327919
+leftattach CC <- VBN : -4.07611470153611
+leftstop NNPS nochild : -0.381668481271943
+leftattach VBN <- NNPS : -5.21550523960672
+rightattach POS -> DT : -3.87970397012592
+rightattach PDT -> VBN : -3.81794016202479
+rightattach POS -> VBN : -4.21514204618189
+rightattach VBN -> DT : -2.53364641652902
+leftattach CC <- VBZ : -3.66478461905446
+rightattach VBZ -> PRP$ : -4.56607552997575
+rightstop DT haschild : -0.382160069629296
+rightattach NNP -> VBG : -4.88505755031889
+rightattach PDT -> CD : -5.42047121956896
+leftattach IN <- CC : -2.9860192655394
+rightcontinue IN haschild : -1.38410478942693
+rightattach JJ -> PRP$ : -5.86061411825908
+leftattach TO <- JJ : -4.31885098792863
+leftstop NNS haschild : -0.370994692383301
+leftattach RP <- JJS : -6.12988633659188
+leftattach VBN <- VBZ : -5.67011421236735
+rightattach VBD -> VBZ : -5.24487327512059
+rightattach EX -> JJ : -2.89174618521305
+rightattach RBS -> CC : -4.84439312712565
+leftattach RP <- PRP$ : -4.71975396391726
+leftattach JJ <- VB : -3.70423948440431
+leftattach NNS <- FW : -3.39676857473857
+leftattach PRP$ <- VBD : -5.3253169510572
+rightattach RB -> CD : -3.21420598678058
+leftattach PRP$ <- RP : -4.68535415146455
+rightattach EX -> RP : -6.53619978567726
+rightstop PRP$ nochild : -0.435619956700497
+leftcontinue NNS nochild : -1.15917077912069
+leftattach NNPS <- WP : -4.81654937221719
+leftattach CC <- CD : -4.89016126721587
+rightattach WDT -> CD : -3.09374329489382
+rightattach UH -> EX : -5.01492929579851
+leftstop RP nochild : -0.43580127577306
+leftstop PDT haschild : -0.264005560533685
+leftattach VBZ <- JJS : -3.10725998191021
+rightattach NNS -> WDT : -5.82399389144205
+leftattach RB <- PRP$ : -2.66667660633191
+leftattach VBD <- IN : -2.82051102510531
+rightattach NNPS -> NNPS : -3.09790384273782
+leftattach PRP <- EX : -3.87651036271113
+leftattach VBP <- FW : -4.16642227977887
+rightstop JJ nochild : -0.366628827585937
+leftattach PDT <- CC : -8.14274981305345
+leftattach UH <- POS : -7.50171622824888
+leftattach PRP <- CD : -4.85372782848172
+leftattach IN <- NNPS : -2.85351254767218
+rightattach DT -> CC : -4.90133276459906
+leftcontinue WDT nochild : -1.18940010841598
+leftattach NNP <- VBN : -2.82660380298823
+rightattach VB -> PDT : -6.72533726667117
+root NNPS : -5.1997217591448
+leftattach VBP <- DT : -3.27064699255826
+leftattach UH <- WDT : -5.87400681773425
+rightattach JJS -> PDT : -6.39156963339692
+rightstop WP nochild : -0.435848823211639
+leftattach PDT <- VBN : -7.11517339141083
+rightattach TO -> NN : -2.12060764640368
+leftattach NN <- WDT : -1.59003676343548
+leftattach CD <- FW : -3.32140152609016
+leftattach UH <- RP : -5.86687588488062
+rightattach VBP -> PDT : -6.88922671979235
+leftattach RB <- RBS : -2.81180702785277
+leftattach WDT <- NN : -7.23783076219775
+rightattach EX -> JJR : -4.03990852511242
+rightattach CC -> RP : -5.920693061223
+leftattach WP <- WRB : -5.59460686644927
+leftstop RBS haschild : -0.262248502898212
+rightattach POS -> JJR : -5.23949664951854
+leftattach CD <- RP : -4.76398197522302
+leftattach DT <- UH : -2.88218830866284
+leftattach RBR <- PDT : -5.16377521067343
+leftattach WDT <- VBP : -5.384639070193
+leftattach RBR <- MD : -7.06262586439446
+leftattach JJ <- VBN : -3.45168274992832
+leftstop RB nochild : -0.364569270436046
+rightattach PRP$ -> NNPS : -6.42163983104362
+rightattach WRB -> JJR : -6.22431480849304
+rightattach NN -> IN : -2.13030768509663
+leftattach RBS <- NN : -7.60250437243392
+leftattach VB <- JJR : -2.77704521313937
+leftattach NNP <- WRB : -3.56540109877301
+leftattach IN <- NNS : -2.43532632331112
+rightattach VBP -> DT : -2.40836645054009
+rightattach DT -> VB : -4.16139586760568
+leftstop VBP nochild : -0.432099361484357
+rightattach RBS -> NNS : -2.53068572113109
+leftattach VB <- WRB : -2.03786405247979
+leftattach VBZ <- VBZ : -4.37072971131455
+leftattach PDT <- MD : -7.13687795410706
+leftattach JJR <- VB : -6.03970274598088
+rightattach RP -> WP : -6.35619685404872
+rightattach UH -> UH : -1.9373777217708
+leftstop MD haschild : -0.236462266541108
+rightattach RBR -> JJR : -6.25569565039188
+rightattach EX -> VBP : -2.32089391736494
+rightcontinue WP nochild : -1.04048156060741
+rightattach MD -> NNP : -3.68057161507907
+leftcontinue NNP haschild : -1.30057645548828
+rightattach PRP$ -> NN : -0.953658391801633
+rightattach VBD -> EX : -7.16919574924181
+rightattach NNS -> IN : -2.20080229325548
+rightattach FW -> PDT : -4.6767525021172
+rightattach FW -> TO : -3.98226931601452
+rightattach CC -> PRP$ : -4.69929248333928
+rightattach TO -> FW : -8.71312824491598
+leftattach JJR <- TO : -5.433605214425
+leftcontinue WRB nochild : -1.61429743091587
+rightattach PRP$ -> CD : -3.95963542043514
+rightattach RBR -> NNP : -3.21702191085183
+rightstop UH nochild : -0.224022357555797
+leftattach RBR <- WRB : -5.59460686644927
+leftattach CC <- EX : -1.38985497886126
+leftattach NNS <- VB : -3.00546101269007
+rightattach IN -> JJ : -2.37198526094018
+rightattach PRP$ -> WRB : -7.69484824241959
+leftattach CD <- WP : -4.38091214228548
+rightattach VBN -> VB : -3.67864696953318
+rightattach PRP$ -> CC : -4.73199837846983
+leftattach WRB <- PRP$ : -5.98492914748055
+leftattach NN <- TO : -1.83974280043789
+leftattach RP <- UH : -4.93954097825896
+leftattach WRB <- WP : -6.03272099558112
+leftattach NNP <- PDT : -4.18513381281565
+leftcontinue POS haschild : -1.35613161427574
+leftattach WP <- IN : -5.79867460457225
+rightattach VBZ -> NN : -1.94084914898942
+leftattach VBG <- VBN : -4.2513799132664
+leftattach VBG <- IN : -3.95758164649293
+rightattach DT -> NNP : -2.63883549724055
+rightattach NNP -> VB : -4.05631053364674
+leftattach PRP$ <- RBR : -4.80903276758546
+root RBR : -6.14917130615454
+rightcontinue RBS haschild : -1.17916036400161
+leftattach WRB <- JJS : -6.12988633659188
+leftattach RP <- NNPS : -6.8558295835094
+leftattach NNP <- FW : -2.65553111861622
+leftattach DT <- VBD : -2.42250209933517
+rightattach RP -> JJR : -6.35619685404872
+leftattach VBZ <- MD : -4.46228075669028
+leftcontinue PRP$ nochild : -1.28434689135987
+rightcontinue VBP haschild : -1.17625992402056
+rightattach IN -> NNPS : -5.79825535402836
+rightattach TO -> NNS : -2.90720157527529
+leftattach RP <- FW : -3.27033631200801
+leftattach VBG <- TO : -3.68820069673679
+leftattach POS <- NNP : -4.93985745349278
+rightcontinue PRP nochild : -1.09607051908138
+leftattach NNP <- RP : -3.35150443887527
+rightattach TO -> EX : -8.00482925933544
+rightattach JJR -> PRP$ : -4.97006267133569
+leftattach NN <- WRB : -2.48358477696819
+leftattach UH <- VBN : -7.67672084345124
+rightattach UH -> RP : -4.25263703078231
+leftattach CC <- NNS : -3.3536593560953
+leftcontinue NNP nochild : -1.31825631037791
+leftattach RP <- EX : -5.51248152995676
+rightattach VBG -> RB : -2.80021623905657
+rightattach JJS -> WP : -6.39156963339692
+rightattach VBG -> NNS : -2.10991765442749
+leftattach NNPS <- RB : -5.64439098780316
+leftattach CC <- TO : -4.49991903306609
+leftattach WRB <- RBS : -5.02140249975666
+leftattach RBR <- RP : -6.79622934154458
+leftattach WRB <- TO : -6.74150786339945
+rightattach CC -> TO : -4.52009893662913
+rightattach NNS -> VBG : -3.86831945130055
+rightstop VB haschild : -0.280746730575074
+leftattach VB <- MD : -5.12859681460492
+leftattach PRP <- VB : -2.59169194464476
+leftattach NN <- JJR : -2.34323847421292
+leftattach PDT <- PRP$ : -5.48914131032522
+rightattach VBZ -> WDT : -7.42580629669556
+rightattach VBN -> NN : -1.96996727318365
+rightattach NNPS -> JJ : -2.99793797937072
+rightattach RBS -> JJR : -5.13644902334574
+rightattach PRP -> UH : -7.48129962932121
+leftattach PRP <- MD : -1.67064892359537
+rightattach DT -> VBP : -4.07807649273284
+leftattach EX <- PDT : -5.16377521067343
+rightattach PRP$ -> JJR : -5.37172663132627
+leftattach VBN <- WRB : -5.59460686644927
+rightstop FW nochild : -0.31078890161481
+leftattach EX <- IN : -6.10181158807891
+rightattach VBD -> JJS : -6.60301762003095
+leftattach UH <- VBP : -7.04651557423245
+rightattach NNPS -> DT : -3.67364714371447
+rightattach WP -> PRP : -2.36831943592061
+leftattach PDT <- JJS : -5.31895612037555
+rightattach PRP$ -> JJS : -5.27545172952162
+leftattach VBG <- VBG : -4.6500992844779
+rightattach EX -> NNPS : -6.53619978567726
+leftattach VBG <- VB : -4.63000177689224
+leftattach VB <- UH : -3.82077687415355
+rightattach CD -> VBP : -5.2730993916576
+rightattach VB -> RB : -2.78613010232792
+leftattach JJS <- VB : -6.84750406408508
+leftstop NNPS haschild : -0.291818254789636
+leftstop IN nochild : -0.384882169804478
+rightattach NNPS -> NN : -2.54374624194714
+rightattach DT -> JJ : -2.0791717016303
+leftattach CD <- PRP : -4.7758572855367
+leftattach POS <- RB : -5.5848540751744
+leftattach VBZ <- VBP : -4.65584665795855
+rightattach NNS -> WRB : -7.32051338806254
+leftattach VB <- RB : -3.53469396773661
+leftattach UH <- JJS : -6.12988633659188
+rightattach RP -> UH : -6.35619685404872
+leftcontinue POS nochild : -1.04086561146908
+rightattach NN -> UH : -7.14150537992869
+leftattach VBZ <- EX : -4.03665372241453
+rightattach JJS -> RB : -3.67125771770752
+rightattach JJ -> VBG : -4.63478150793572
+leftcontinue VBN haschild : -1.12349772056472
+leftattach JJS <- JJ : -5.67362102426476
+rightstop NNS nochild : -0.293300694813988
+leftattach TO <- IN : -4.12188267743789
+rightattach WP -> NN : -2.43142635031155
+leftattach RP <- POS : -5.83089217915932
+rightattach NNP -> POS : -3.54702276801828
+leftattach NN <- RP : -2.37287403578179
+leftattach PRP$ <- WRB : -5.59460686644927
+leftattach VBG <- DT : -3.78619062514838
+leftattach NNPS <- EX : -5.51248152995676
+leftstop VBD nochild : -0.433709030182876
+rightattach RBS -> RB : -3.66108321372767
+rightattach NN -> CC : -3.95350898724092
+rightattach EX -> WRB : -5.74695818588455
+leftattach CC <- CC : -4.6769006989642
+leftstop PDT nochild : -0.352275275194683
+rightstop RBS haschild : -0.367500254229483
+rightattach RB -> CC : -4.62966531467064
+rightattach RBR -> VBD : -3.54252124293663
+rightattach PRP$ -> NNS : -1.87035802951468
+leftstop POS nochild : -0.435639088098184
+leftattach UH <- PRP : -6.16733309501712
+rightattach VBG -> RBR : -5.29534358647511
+rightattach DT -> PRP$ : -5.95156061045556
+rightattach PRP -> RBR : -6.21543729527909
+rightstop VBP nochild : -0.418038585773596
+rightattach VBG -> VBN : -3.42260017440384
+leftattach IN <- MD : -3.42393478408681
+leftattach NN <- NN : -2.17845295400053
+leftattach VBZ <- VB : -3.41905814341677
+leftattach RBS <- NNP : -8.30729435977436
+rightattach WRB -> DT : -2.20066959610154
+leftcontinue JJ haschild : -1.15041911251407
+leftattach RB <- JJS : -3.18171842100564
+leftattach PRP$ <- VBN : -5.43428695360434
+rightattach RB -> JJR : -4.63429309799528
+rightattach VBP -> PRP : -3.25973048316379
+leftattach VB <- VBG : -3.81537861802941
+rightattach NNPS -> JJS : -6.50254402005942
+rightattach RBS -> DT : -3.08373876091869
+rightattach PDT -> PRP$ : -3.52485945224702
+leftattach POS <- IN : -5.77862549599999
+leftstop VBG haschild : -0.365999680562982
+leftattach RP <- NN : -6.48391338590213
+leftattach VBZ <- WP : -2.29898183791472
+rightattach NNS -> WP : -6.95571987829277
+leftattach POS <- MD : -6.06710104032098
+rightattach NN -> RBS : -8.7797650582346
+leftstop DT haschild : -0.331342183630486
+leftattach PRP$ <- WP : -4.85150558163968
+root VB : -3.4945743459618
+leftattach JJ <- PRP$ : -3.62319889282647
+rightattach DT -> VBG : -4.51994111599315
+rightattach VBG -> EX : -8.17743313975924
+rightattach NNPS -> WDT : -5.64784405554194
+rightattach CD -> RP : -7.25000006666807
+leftattach VB <- VBZ : -4.89236704056867
+rightstop CC nochild : -0.435557954824373
+rightattach CD -> JJ : -3.21009087021861
+rightattach EX -> VB : -3.51370724372437
+rightattach NNP -> RP : -6.67983222616047
+leftattach WP <- PRP$ : -5.22833563406336
+leftattach RBR <- CD : -7.1267866489458
+leftattach NNS <- VBP : -1.22685888514191
+rightattach VBD -> IN : -2.40349579605776
+rightattach RB -> NNPS : -6.7663131304665
+rightattach CC -> FW : -7.51313685662834
+rightattach RP -> RBR : -4.82973198034491
+leftattach IN <- TO : -3.79187126440368
+leftattach DT <- TO : -3.01754344507437
+leftattach PRP$ <- VBG : -5.37991313871612
+leftcontinue UH haschild : -1.07524556115993
+rightattach PRP -> PRP$ : -4.9105033644756
+leftattach VBZ <- PRP$ : -2.73055122788141
+rightattach PDT -> VBD : -4.0118543236363
+leftattach FW <- RBS : -5.02140249975666
+rightattach MD -> VBG : -4.92610029135309
+leftattach PDT <- CD : -9.72237058724221
+leftattach WRB <- VBP : -5.46381805256723
+leftattach VB <- VB : -3.88542378807009
+leftcontinue NNPS nochild : -1.14797487104704
+leftcontinue WDT haschild : -1.3569679882363
+leftattach POS <- RP : -5.44022867267426
+rightattach NNPS -> RP : -6.43244210632126
+rightattach CD -> PRP$ : -6.70695849362199
+leftcontinue RP nochild : -1.04056860584476
+leftattach VB <- CC : -3.58084325142796
+rightattach VBN -> RBS : -8.56136055762835
+rightattach UH -> WRB : -5.01492929579851
+rightattach NN -> NNPS : -6.32763974599493
+leftattach JJR <- VBG : -6.08567339297823
+rightattach TO -> VBG : -5.41514692426894
+leftattach POS <- CC : -5.64040325638184
+leftattach WRB <- DT : -5.53503097477946
+rightattach RB -> JJ : -2.18987372627718
+rightattach NN -> WP : -7.22463835730983
+rightattach JJ -> MD : -4.92666450033826
+leftattach JJ <- UH : -3.11753103551094
+rightattach VBZ -> JJS : -6.32954385688397
+leftattach POS <- VBZ : -4.83299473350645
+rightattach VBZ -> RBR : -5.85410178688058
+rightattach NNP -> NNPS : -4.09151462226038
+rightcontinue TO nochild : -1.04403462949367
+leftattach DT <- VB : -2.94313660806517
+leftattach NNPS <- POS : -5.06977826749157
+rightattach EX -> IN : -3.00676546412592
+leftattach VBZ <- POS : -3.57768104423477
+rightattach RBS -> NN : -2.11989716788272
+leftattach CC <- VBD : -3.79749098709626
+rightcontinue VBG nochild : -1.11264880662093
+leftattach WDT <- CD : -6.79269124896546
+leftcontinue NNS haschild : -1.17133655476974
+rightattach DT -> RBR : -6.19583337224155
+leftattach POS <- VBN : -5.63364331297827
+rightstop RB nochild : -0.369439518096781
+rightstop MD nochild : -0.430437635803075
+rightattach RP -> WDT : -6.35619685404872
+leftattach NN <- POS : -1.90173586000497
+leftattach VBZ <- WRB : -2.66210075314931
+leftattach MD <- VBG : -4.97664533923743
+leftattach JJS <- VBD : -6.21360847008083
+rightattach WDT -> UH : -6.08765254956043
+leftattach RP <- WRB : -5.59460686644927
+rightattach WRB -> WP : -6.22431480849304
+rightattach UH -> DT : -2.50190515723803
+leftattach NNP <- RBR : -3.2122854557067
+rightattach CC -> EX : -4.86063549405866
+leftattach MD <- NNPS : -5.84645044511467
+leftattach TO <- UH : -4.23124199267842
+leftattach CD <- VB : -5.36732207928293
+rightattach WP -> VBD : -2.38502057845251
+leftattach RP <- VBG : -5.60113845300657
+leftattach PRP <- TO : -3.1035005526169
+rightcontinue RB nochild : -1.17480755279528
+rightattach JJS -> VBN : -3.94003480424416
+leftattach FW <- NN : -8.57032460758568
+leftattach NNS <- NNP : -3.59857083724166
+rightstop JJS nochild : -0.407390883021338
+rightattach VBD -> WRB : -7.58846491697189
+rightattach RBS -> IN : -2.62569059839497
+leftattach VBZ <- DT : -2.45620035298297
+leftattach FW <- RP : -6.00958576644177
+leftattach RB <- JJR : -2.31753579080581
+leftattach VBZ <- RP : -2.49401876301482
+rightattach IN -> JJR : -5.85389995480418
+rightattach VB -> VBG : -4.4100375118304
+leftattach RBR <- JJS : -6.12988633659188
+rightattach WDT -> NNP : -3.6267545306972
+rightattach VBP -> NNP : -3.46553737194912
+leftattach JJR <- UH : -4.93954097825896
+rightattach PRP -> CC : -4.73009829753706
+leftstop DT nochild : -0.282960020446962
+leftattach FW <- RBR : -6.44831818631899
+rightattach FW -> UH : -4.6767525021172
+leftattach RB <- WRB : -2.1720326839167
+leftattach WP <- VBD : -5.13253706542618
+leftattach JJS <- FW : -4.74075668578081
+leftattach VBN <- POS : -4.63680446915293
+rightattach VB -> PRP : -2.90942492231267
+rightattach PRP -> JJS : -6.90987260836786
+leftattach JJR <- VBD : -6.3347047330091
+leftattach NNP <- RB : -2.62979138152912
+rightattach PRP$ -> PRP : -4.15421125987879
+leftattach VBN <- RP : -2.7761956527367
+rightattach RP -> VBD : -4.97619853689929
+leftattach VBN <- PRP$ : -4.11334604686665
+rightattach TO -> NNPS : -7.12150982247933
+leftcontinue PRP nochild : -1.61856226690225
+rightattach RB -> MD : -4.51901137295899
+leftattach NNP <- IN : -2.78466171766468
+leftattach VBP <- JJS : -3.56797990908065
+leftattach WDT <- IN : -6.85399851470611
+leftattach WDT <- NNPS : -6.8558295835094
+leftattach MD <- VBN : -3.97319773861867
+rightattach FW -> FW : -3.08681116655267
+leftattach VBP <- CD : -4.8989710923128
+rightattach JJ -> NNPS : -5.82386803346445
+leftattach VBN <- VB : -4.25303692990165
+rightcontinue VBP nochild : -1.07392989710276
+leftattach JJS <- JJR : -5.91946699687521
+leftattach UH <- PRP$ : -5.62153132773165
+rightattach TO -> WDT : -7.72642456367529
+leftcontinue WP nochild : -1.5283448132123
+rightattach CC -> VBP : -3.3957057422839
+rightattach RP -> VBZ : -3.99032723991325
+leftattach JJR <- PRP : -5.85138584815638
+leftattach WRB <- WRB : -5.30021111056748
+leftattach RP <- PRP : -6.00216032717243
+rightattach JJ -> UH : -7.73469456692862
+rightattach MD -> VBZ : -5.23781536576851
+leftattach NNP <- POS : -0.800627063387118
+leftattach TO <- CD : -2.50118019212461
+rightattach JJ -> DT : -3.48476656729015
+rightattach UH -> RBR : -5.01492929579851
+leftattach PRP <- RBS : -3.00986832362308
+leftattach VBD <- RBR : -2.28261803457353
+rightcontinue EX haschild : -0.907642528271791
+rightattach JJS -> EX : -5.97597785647083
+rightattach RB -> UH : -9.23722699231801
+leftattach NNS <- CC : -2.07634865773875
+rightattach JJS -> POS : -5.50752926105582
+leftattach JJS <- CD : -6.52244772136054
+rightattach RBS -> EX : -5.13644902334574
+rightattach RBS -> CD : -4.17861294416257
+leftattach VBN <- VBG : -3.850067851101
+leftcontinue PRP haschild : -1.30443008236014
+rightattach IN -> VBN : -4.3966946226748
+rightattach NNS -> POS : -5.23262372726142
+rightattach WRB -> RBR : -6.22431480849304
+leftattach WP <- RBS : -5.02140249975666
+rightattach UH -> NN : -2.81966761302454
+rightattach NN -> TO : -3.36754920873568
+leftattach NNPS <- NNPS : -3.06512621690129
+rightattach NNS -> RBS : -7.53016340474741
+rightattach DT -> RP : -6.43608260656831
+rightstop WP haschild : -0.433453508123843
+leftattach MD <- WP : -4.76353378719655
+rightattach WDT -> POS : -5.44138251839561
+rightattach TO -> VBN : -4.4306536936508
+rightattach CD -> JJR : -5.47596700161442
+rightattach WP -> VB : -3.19242835935642
+rightattach MD -> PRP : -3.62341620076268
+leftattach TO <- CC : -4.69067467497265
+rightattach WP -> VBZ : -1.71147737412342
+leftattach NNPS <- JJS : -5.79648487023741
+rightcontinue NN nochild : -1.35898621566805
+rightattach POS -> EX : -7.48499214095869
+rightattach PRP -> WP : -6.38185781158791
+leftattach CD <- VBP : -4.64553382885643
+rightattach JJS -> VBP : -2.83584183893524
+rightattach FW -> WP : -4.6767525021172
+rightattach VBN -> WRB : -8.56136055762835
+rightattach NNPS -> TO : -3.9467904381556
+root RBS : -7.71156320619382
+leftattach DT <- EX : -3.52780238243133
+rightattach PDT -> VBP : -3.30049539449777
+rightattach VBP -> RP : -4.98004275538155
+leftattach PRP <- VBZ : -1.86379731799554
+rightattach VBG -> NN : -1.71807928156949
+rightattach NNP -> VBZ : -2.66211400788022
+leftattach RP <- CD : -7.04190185473909
+rightattach NNP -> VBN : -4.24400800989904
+rightattach PRP$ -> WDT : -7.42166873133444
+rightcontinue POS haschild : -1.35078707776126
+leftattach WDT <- CC : -6.72057893552433
+leftattach CD <- CC : -3.42178425981717
+rightattach RBS -> RBS : -5.13644902334574
+leftattach POS <- RBS : -3.29512383385328
+rightattach JJR -> PRP : -4.02056348313385
+rightattach WRB -> WDT : -6.22431480849304
+leftattach RBS <- CC : -7.87432283096343
+leftattach WRB <- NNS : -6.18594791351376
+leftattach MD <- NNP : -5.48328333525637
+leftattach WRB <- VB : -5.45835242866067
+leftattach WDT <- JJS : -5.48563951683573
+leftattach WRB <- RP : -5.77821267883269
+rightattach VBZ -> VBZ : -4.38300317244996
+rightattach CD -> TO : -2.85567481047274
+leftattach JJR <- RP : -5.82686798639739
+leftattach JJ <- JJS : -4.02549397580164
+leftattach NN <- VB : -2.69240818714543
+rightattach CD -> MD : -5.94928260179693
+rightstop PDT haschild : -0.392884933853545
+rightattach IN -> RBR : -7.04773803834375
+rightattach WRB -> VBZ : -2.92400452269323
+rightattach IN -> CC : -4.72840636185499
+leftcontinue NNPS haschild : -1.3739874820283
+rightattach NNPS -> WRB : -6.7969397759412
+rightattach FW -> MD : -4.6767525021172
+leftcontinue JJR haschild : -1.11843415993485
+leftattach JJR <- CD : -6.0370030673329
+root WRB : -6.2805677769349
+rightattach NNP -> CC : -3.91119730624807
+rightattach JJR -> JJS : -5.67876494200352
+rightattach VBG -> VB : -3.69361063803303
+leftattach WRB <- CC : -7.79860846428282
+leftattach JJS <- WRB : -4.75939878333177
+leftattach EX <- WRB : -4.55206933421371
+leftattach NNS <- VBG : -2.41981716337126
+leftattach WDT <- WRB : -5.59460686644927
+leftattach VBN <- FW : -4.74075668578081
+rightattach WDT -> VB : -3.07435720617214
+leftattach JJ <- WDT : -3.45522405846264
+rightattach CC -> DT : -2.40442988608823
+rightattach JJR -> RB : -3.69018494488167
+rightattach JJS -> DT : -3.16068196371323
+rightattach WRB -> JJS : -6.22431480849304
+leftattach VBG <- CD : -5.05039252197817
+rightattach WRB -> RB : -2.54502566748963
+leftattach WP <- VBP : -4.86542430733447
+leftattach PRP$ <- VBP : -5.04418569388052
+leftattach MD <- RB : -3.16933815354896
+leftattach IN <- PRP$ : -1.85474732383246
+rightattach DT -> JJS : -5.52615609662476
+rightcontinue CD nochild : -1.27893131934603
+rightattach JJR -> IN : -1.59632722883347
+leftattach PRP$ <- NNS : -4.12315071745696
+leftattach JJ <- VBG : -3.18248662714644
+leftattach FW <- UH : -4.93954097825896
+rightattach VB -> RBR : -5.3181046173604
+leftattach VBP <- JJR : -3.19309774459039
+rightattach VBZ -> NNPS : -6.99141701651147
+leftattach FW <- JJS : -6.12988633659188
+leftattach VBG <- FW : -4.74075668578081
+rightattach CC -> CD : -3.83586838291536
+rightattach CD -> IN : -2.22056908268258
+rightattach PRP -> POS : -6.29892013223453
+rightattach IN -> VB : -4.87437155376317
+leftcontinue NN nochild : -1.11758339149816
+rightattach VBZ -> NNS : -2.94902299605259
+rightattach RBR -> IN : -1.73374427297594
+rightstop VBD haschild : -0.367791506926807
+rightattach RB -> RBS : -7.44235155880101
+leftattach CC <- DT : -3.22620717109745
+rightattach PRP$ -> JJ : -2.06758744116884
+rightattach JJ -> EX : -8.17623840754834
+leftattach NNPS <- WDT : -4.65783519437032
+rightattach NN -> RP : -5.82519440722471
+rightattach CD -> PDT : -8.65038893608685
+rightattach RBR -> VBP : -4.42121817465842
+rightattach VBD -> DT : -2.38678672898963
+rightcontinue FW haschild : -1.22451229790217
+rightattach CD -> VBD : -4.11789415487221
+rightstop VBG haschild : -0.300156471516025
+leftattach UH <- NNPS : -6.48882890471029
+rightattach VBP -> PRP$ : -4.37486262568529
+leftattach VBG <- CC : -4.41121627191134
+rightattach NN -> POS : -4.73331767511842
+rightattach POS -> NNS : -2.15453329190557
+rightattach VBZ -> JJR : -4.75830502450644
+rightattach RBR -> VBN : -3.94780980602148
+leftattach JJS <- TO : -6.4164480531014
+leftstop NNP nochild : -0.311430527027648
+leftattach JJR <- JJR : -4.42548943931326
+rightattach TO -> CD : -1.35480663438819
+leftattach JJR <- WRB : -5.59460686644927
+rightattach VBZ -> PDT : -7.9174574481028
+rightattach NN -> VBD : -2.47297918294717
+rightattach FW -> VBZ : -1.96063529603569
+rightattach JJR -> TO : -3.49981970820136
+rightattach RP -> NNP : -2.59170959866106
+leftattach NNS <- VBD : -1.92480857258947
+leftattach JJR <- FW : -4.74075668578081
+rightattach WRB -> IN : -3.67517876011315
+leftattach PRP <- PDT : -2.78558789331325
+rightattach RB -> PRP : -3.31157164170409
+leftattach VBZ <- VBG : -2.24391663915416
+leftcontinue IN nochild : -1.14109446853359
+leftattach EX <- VBP : -4.35246620490591
+leftattach RB <- TO : -3.05399473096985
+leftattach EX <- MD : -4.55509138659751
+leftattach CD <- RBR : -3.45933361143333
+rightattach WRB -> EX : -6.22431480849304
+leftattach IN <- PRP : -2.25428993149591
+rightattach WDT -> NNS : -2.98688316176129
+leftattach NNP <- TO : -2.44929763583333
+rightattach MD -> RBS : -7.71260413772891
+rightattach UH -> CD : -3.66754005269258
+leftattach PRP <- POS : -4.262913664629
+rightattach VBZ -> VBP : -5.23650388018728
+rightattach NNPS -> VBP : -2.57602269853464
+leftattach WRB <- VBN : -6.42041160232668
+leftattach VBN <- CC : -3.51886389598173
+rightattach VBZ -> VB : -3.65727258142048
+rightattach RP -> DT : -1.97787215025295
+rightattach WDT -> MD : -3.13901663797867
+leftattach CD <- NN : -3.13417379146913
+rightstop CD nochild : -0.326193671830465
+leftattach PRP <- RB : -2.47573905564778
+leftstop VBN nochild : -0.415999725029351
+leftattach JJR <- CC : -5.137248208281
+leftattach NNS <- VBN : -2.49783931820844
+rightattach PRP$ -> MD : -5.11257216774997
+leftattach PDT <- TO : -7.78401958584412
+leftattach PDT <- RBR : -6.44831818631899
+leftattach TO <- JJR : -4.00617510790392
+rightattach POS -> CC : -4.98837352376288
+leftattach EX <- JJ : -5.96126170860708
+rightattach VBN -> CD : -2.99040786119027
+leftattach VB <- NNPS : -5.29803802733547
+rightattach JJR -> RP : -5.77424279351324
+rightattach WP -> MD : -3.28334614499933
+rightattach PRP -> RBS : -7.40235840758877
+leftattach EX <- CD : -7.19354387481252
+rightattach PDT -> RP : -5.42047121956896
+rightattach VBN -> NNP : -2.55655466740888
+leftcontinue PRP$ haschild : -1.18327473262265
+rightattach WDT -> WDT : -5.35551029139963
+rightattach VBP -> UH : -8.14298411808192
+leftattach FW <- VBZ : -6.51661561742497
+rightattach JJR -> NN : -1.70926861809383
+rightattach WP -> TO : -3.60788696431222
+rightattach RB -> FW : -9.53747568736965
+leftattach VBD <- JJ : -2.92671050684947
+root PRP$ : -4.89525050267093
+rightattach WDT -> PDT : -6.08765254956043
+rightattach PRP -> CD : -4.57495262902181
+rightattach VBN -> JJR : -5.91941508302824
+rightattach NNS -> RBR : -5.54410700153085
+rightattach PRP -> JJR : -5.51765309324845
+rightattach JJ -> PDT : -7.91076267817014
+rightattach PRP$ -> POS : -5.84303700488081
+root PDT : -7.41814882374287
+rightattach RB -> VB : -2.46680332756364
+rightcontinue JJS haschild : -1.10707970909755
+rightattach JJR -> VBZ : -3.82601706190169
+leftattach FW <- EX : -5.51248152995676
+rightattach PRP -> RB : -2.39522962708008
+leftattach PDT <- VBD : -8.01575073949395
+rightattach JJR -> NNPS : -6.85803667374235
+leftattach NN <- FW : -1.81990866718268
+rightattach NN -> VB : -3.9100402317822
+rightattach CC -> PRP : -2.7837909697721
+rightattach NNPS -> VBZ : -3.43651645960838
+rightstop NNS haschild : -0.380942127502517
+rightstop NNP haschild : -0.396948843288038
+rightattach RB -> RP : -5.41443136816175
+rightattach CD -> VB : -5.6457671191611
+leftattach UH <- NN : -8.2477629013795
+leftattach VBD <- WDT : -3.60946334531458
+rightattach RBS -> RBR : -5.13644902334574
+rightcontinue JJ haschild : -1.3804634106114
+rightattach CD -> JJS : -7.66343143536735
+rightattach WRB -> NN : -2.44849546855138
+leftattach POS <- WRB : -5.59460686644927
+rightattach TO -> DT : -2.5625402405305
+rightattach FW -> JJS : -4.6767525021172
+rightattach JJS -> JJS : -5.6543177809513
+leftcontinue VBP nochild : -1.04738188568314
+rightattach RB -> RBR : -5.1306882692143
+leftattach VBG <- VBD : -5.2260440616216
+rightattach RBS -> FW : -5.13644902334574
+rightattach RP -> PRP : -3.56631223885108
+leftattach VBP <- NNS : -3.76392501850957
+rightattach JJS -> RBR : -5.52836827286639
+leftattach PRP$ <- RBS : -3.76863953126129
+rightattach UH -> VBD : -4.22543153305151
+rightattach NNP -> FW : -8.2959968482389
+leftattach WDT <- POS : -6.85544619708406
+rightattach VBN -> WDT : -8.56136055762835
+leftattach NNS <- RP : -2.94440901998538
+rightattach RB -> EX : -5.72695008251757
+rightattach UH -> RBS : -5.01492929579851
+leftattach POS <- POS : -5.58066123024194
+leftattach PRP$ <- PRP$ : -5.76973130580407
+rightattach PRP -> NNP : -3.73695126432274
+leftattach TO <- PDT : -3.85631353939738
+leftattach NNPS <- PRP$ : -5.73404777924119
+leftattach UH <- MD : -6.75057129502038
+rightcontinue MD haschild : -1.16273221088223
+rightattach TO -> NNP : -3.23469070877602
+rightattach PDT -> VB : -4.26858762510896
+rightattach RBS -> VB : -3.93760252468861
+rightattach IN -> DT : -1.93096595791852
+rightcontinue PDT nochild : -1.03885314897848
+rightcontinue RP haschild : -1.45332551403381
+rightattach DT -> RBS : -6.73336513989332
+leftattach VBD <- VBP : -5.46515521985596
+root RP : -5.88090040006404
+rightattach EX -> CC : -4.7871054821637
+root CC : -3.94580953390688
+rightcontinue PRP haschild : -1.02819311956046
+leftstop NNS nochild : -0.376507804172188
+leftattach JJS <- JJS : -5.58770851685966
+rightattach RBR -> PDT : -6.25569565039188
+rightattach CD -> WDT : -8.66089442157891
+leftattach MD <- WDT : -4.59148463107749
+leftattach WP <- NNS : -6.44644169968987
+leftattach RBR <- VBZ : -7.64260668868759
+rightattach EX -> EX : -6.53619978567726
+rightattach FW -> NNS : -3.32820403716054
+rightattach VBN -> VBG : -4.12710788943336
+rightattach WDT -> RP : -6.08765254956043
+leftattach MD <- POS : -5.74468633056912
+leftattach RB <- NNP : -3.63519719881948
+leftattach IN <- RB : -3.36752648109085
+rightattach RP -> CC : -4.01524066197539
+leftattach UH <- IN : -8.22558049897147
+rightattach VBD -> CD : -1.81600512201496
+rightattach PRP -> EX : -7.87912699458743
+leftattach JJ <- TO : -2.9764817949998
+rightattach VBG -> PDT : -6.45428264489785
+rightattach FW -> WRB : -4.6767525021172
+rightattach VBD -> FW : -7.62740810415388
+leftstop POS haschild : -0.297941942318047
+rightstop JJ haschild : -0.289633302727582
+leftattach FW <- DT : -9.44068435266808
+rightattach CD -> VBN : -4.38280691831242
+leftattach POS <- PRP$ : -5.43096090354748
+leftattach WDT <- NNS : -6.66375795885647
+leftattach RBS <- VBG : -8.24673264884279
+rightattach RB -> WDT : -7.2138741057659
+rightattach VBD -> VBP : -6.14536039481213
+rightattach VBG -> JJ : -2.64884263253524
+leftattach RBR <- NN : -6.5898885304444
+rightcontinue PRP$ nochild : -1.04090065476958
+rightattach VBN -> NNS : -2.61706761082599
+leftattach CC <- IN : -4.09272703149916
+leftcontinue VBG haschild : -1.18254738577606
+leftattach DT <- FW : -1.73360228124672
+leftattach TO <- NNP : -4.61272980268859
+rightattach NNS -> VBD : -2.23183545448734
+rightattach RBS -> NNPS : -5.13644902334574
+leftcontinue JJS haschild : -1.39573260831578
+rightattach IN -> WP : -6.5443075848617
+leftattach RB <- VB : -2.02547571671455
+rightattach PRP$ -> PDT : -7.4064979440826
+leftattach CD <- NNPS : -4.46246926411806
+leftattach RBR <- NNS : -6.80826753921004
+rightstop VBG nochild : -0.39852004829271
+leftattach JJ <- VBP : -2.9182008488408
+leftattach WP <- JJ : -6.71028238757202
+leftattach JJS <- PRP : -5.62777147167434
+rightattach IN -> PRP : -3.5271156719584
+rightattach RBR -> RBS : -6.25569565039188
+rightattach NNPS -> PRP$ : -5.07206251698716
+rightattach WRB -> CD : -4.55834708951926
+leftstop UH nochild : -0.201735526865485
+rightattach VBG -> VBP : -4.45149917381175
+leftattach NNPS <- PRP : -6.22776258094125
+leftattach PRP$ <- JJR : -4.50524391428198
+leftattach POS <- CD : -5.92795892804148
+rightcontinue VBG haschild : -1.3497785058757
+rightattach VBN -> EX : -7.44494431553289
+leftattach PDT <- WDT : -5.87400681773425
+rightattach IN -> NN : -1.6302208009205
+leftattach FW <- JJR : -7.09611947797011
+rightattach PRP$ -> VBP : -4.1624066038562
+rightattach WRB -> WRB : -5.89091334213857
+rightattach MD -> DT : -2.82680299378804
+rightattach MD -> VBN : -3.27335859064388
+leftattach NNS <- WDT : -1.95654867970104
+leftattach VBZ <- RBR : -2.99890493559699
+rightattach CC -> WP : -5.40725380408247
+rightstop JJR haschild : -0.309661592663162
+leftattach PRP <- FW : -3.83271242314713
+rightattach EX -> TO : -4.31144307033903
+leftattach CC <- PRP$ : -3.34318018087249
+leftattach VB <- PRP : -2.68592144085587
+leftattach FW <- POS : -6.18964854079702
+leftattach PRP <- JJR : -3.27227139425816
+rightattach RBR -> JJS : -6.25569565039188
+rightstop EX nochild : -0.435926261813427
+leftattach VBP <- CC : -3.91188599748094
+leftattach WDT <- EX : -5.51248152995676
+rightattach IN -> RBS : -7.6889705346765
+root FW : -7.22630577181337
+rightattach POS -> VBG : -4.47251329328649
+rightattach FW -> JJ : -2.24805242983964
+leftattach TO <- POS : -4.76979860738812
+leftattach VBD <- CC : -3.38956422140375
+leftattach VB <- CD : -4.77093550188317
+leftattach MD <- DT : -4.30466433074819
+leftattach JJR <- PRP$ : -5.6860730929862
+rightattach NNP -> JJR : -6.17925221979019
+rightattach POS -> WDT : -7.48499214095869
+rightattach WRB -> RBS : -6.22431480849304
+rightattach JJR -> WDT : -5.73537452680364
+rightattach TO -> RB : -4.22031359649583
+rightattach EX -> UH : -6.53619978567726
+leftattach RBR <- POS : -5.93517813638934
+leftattach JJS <- EX : -5.03924106997634
+rightattach CD -> NNP : -3.62185864415306
+rightattach VBP -> NNPS : -6.46282294465954
+rightstop UH haschild : -0.419201629970302
+leftattach VBD <- UH : -2.21015146112176
+rightattach CC -> PDT : -6.80953802049697
+leftattach NNPS <- WRB : -5.59460686644927
+rightattach RP -> NNS : -2.24781866278344
+leftattach VBZ <- IN : -2.977803797966
+leftattach DT <- NN : -1.4577604016332
+leftattach PRP <- RP : -2.53447145028131
+leftattach TO <- WDT : -4.85880172670836
+leftstop FW haschild : -0.313862268971034
+rightattach VBG -> WDT : -6.12121744047164
+leftattach EX <- PRP : -6.23889572288201
+rightattach UH -> VBP : -3.43635711716668
+rightattach NNS -> UH : -7.52538827575404
+leftattach VBD <- RB : -2.55582402277419
+leftattach UH <- VB : -7.13079230503094
+leftcontinue VBP haschild : -1.54993150267257
+leftattach PRP <- VBP : -1.48930864547182
+rightattach NNP -> JJ : -3.45408173403788
+leftattach NNS <- EX : -3.81541136255101
+leftattach VBN <- RBR : -3.48487464932185
+rightattach JJ -> RB : -3.53910999747322
+rightattach VBP -> VBN : -2.44936158384356
+rightattach UH -> VBZ : -4.19753230845242
+leftattach RB <- VBZ : -2.71319503737223
+rightattach POS -> UH : -7.48499214095869
+leftattach EX <- PRP$ : -6.82595446710267
+leftattach POS <- EX : -5.51248152995676
+rightattach POS -> RP : -6.08492117051548
+rightattach JJS -> JJ : -2.31464953607895
+leftattach CC <- PRP : -2.47849286904003
+rightstop RBR nochild : -0.347586440857354
+leftattach WDT <- VBZ : -5.06348174487729
+rightattach JJR -> NNP : -3.45624911780741
+leftattach IN <- EX : -2.12785178973825
+leftcontinue PDT nochild : -1.21431460705391
+leftattach JJS <- RBR : -5.53974483799777
+rightcontinue EX nochild : -1.04033981860312
+leftattach JJ <- NN : -2.0665175018122
+leftattach TO <- TO : -5.24158352052734
+rightattach WRB -> PRP : -2.35266798843867
+rightattach WRB -> VBD : -2.64998608348837
+rightattach JJR -> JJR : -4.0751139783336
+rightattach POS -> PRP$ : -5.41644701172245
+rightattach NNS -> EX : -8.04990199602603
+rightattach VBZ -> UH : -8.93849734540405
+rightattach NNP -> NN : -2.32108599884615
+rightattach WDT -> RBS : -5.44874831513628
+leftattach EX <- RBS : -5.02140249975666
+leftattach WP <- MD : -4.53399631181154
+rightattach CC -> CC : -5.4620306559677
+leftattach PDT <- JJ : -7.12319636763713
+leftattach PDT <- FW : -4.74075668578081
+leftattach NNP <- PRP : -3.07746882822864
+rightattach PDT -> JJS : -4.3820274523673
+leftattach RB <- MD : -2.9941706367174
+rightattach EX -> RBR : -6.53619978567726
+leftcontinue UH nochild : -1.69997033290726
+rightcontinue VBZ nochild : -1.11304898599209
+rightattach VBP -> VBD : -4.63894982566231
+rightattach WP -> JJR : -5.44616341397104
+rightattach JJ -> JJR : -5.88117113968242
+rightattach JJS -> UH : -6.39156963339692
+rightattach PDT -> UH : -5.42047121956896
+rightattach PRP$ -> VBN : -4.29813322603329
+leftattach JJR <- NNP : -6.63886868082847
+leftattach UH <- RB : -6.96865733660554
+leftattach RBR <- VBD : -6.63779064841164
+rightattach CD -> FW : -7.83779913897537
+leftattach EX <- VB : -5.81130077902569
+rightattach TO -> WRB : -7.54609246313029
+leftattach CC <- JJR : -3.15289324578298
+rightattach RBR -> NN : -2.12616338331233
+leftstop VB haschild : -0.38509687439515
+rightattach PDT -> WDT : -5.42047121956896
+leftattach MD <- JJ : -4.6985805347589
+leftattach RBS <- MD : -7.71634359434504
+leftattach RB <- JJ : -2.52963372300291
+leftattach PRP$ <- VBZ : -4.66122835862913
+rightattach RB -> NN : -2.20929896610779
+leftattach RB <- CC : -3.17574070442806
+rightattach RP -> JJS : -6.35619685404872
+leftattach NNP <- RBS : -3.15979081953326
+leftattach PRP <- PRP$ : -2.9113823030737
+rightattach RP -> IN : -1.8450909062932
+rightattach RB -> IN : -2.53889940750999
+leftattach WRB <- CD : -8.00648293777418
+rightattach VB -> VB : -3.65269969032844
+rightattach VBZ -> EX : -8.07743401350438
+leftattach WDT <- TO : -6.40846261217486
+leftattach MD <- UH : -4.93954097825896
+rightattach NNP -> PRP$ : -5.61432723244195
+leftattach NNP <- VBD : -1.66567534725139
+leftattach DT <- DT : -2.92835159599494
+leftattach NNS <- RB : -2.44363318504024
+leftattach VBD <- PRP : -2.81707219106042
+leftcontinue DT haschild : -1.26570443480113
+leftattach VBD <- TO : -2.1697441097362
+rightattach VBG -> JJS : -6.6401886509058
+rightattach NNPS -> VBN : -4.03971344041613
+leftattach MD <- WRB : -3.63470759048388
+leftattach FW <- PDT : -5.16377521067343
+rightattach PDT -> MD : -4.53590352032237
+rightattach WDT -> VBP : -2.7631697631197
+leftattach PRP$ <- DT : -5.5129665109482
+leftattach CD <- WDT : -5.15112661881836
+leftattach NN <- NNPS : -2.75833422011881
+leftattach TO <- VBD : -5.87449144894036
+rightattach PRP -> DT : -2.81921006333235
+rightattach NNP -> NNP : -1.09194373127255
+root EX : -6.18554984222139
+rightattach POS -> CD : -3.60718718167007
+leftattach JJR <- MD : -6.19429323871937
+leftattach MD <- VB : -1.7894327403961
+leftattach VBD <- JJR : -2.29548835573356
+leftattach RBS <- VBP : -7.54483690035506
+leftattach JJ <- CD : -3.47658762548982
+rightcontinue VB haschild : -1.40739373681572
+leftstop CD haschild : -0.416544941068678
+rightcontinue POS nochild : -1.0597451274755
+leftattach PDT <- DT : -5.25777505335588
+leftattach FW <- FW : -3.27437677337086
+leftattach PRP$ <- CC : -5.06160188161445
+rightattach POS -> FW : -7.48499214095869
+rightattach POS -> TO : -4.25877760440595
+leftattach CC <- RB : -3.31830117150119
+rightattach PRP$ -> VBD : -3.73404808335866
+leftattach NNS <- NN : -3.35100692453633
+rightattach IN -> VBG : -4.09903660907153
+rightattach JJR -> VB : -3.74955524804479
+rightattach WP -> POS : -6.39326359241857
+leftattach PRP <- WRB : -2.87144903319888
+leftattach PRP$ <- EX : -5.51248152995676
+rightcontinue VBZ haschild : -1.16160403562751
+rightattach EX -> PRP : -4.34372178785395
+rightstop TO haschild : -0.255631871461138
+rightattach RBR -> WDT : -6.25569565039188
+leftattach CD <- PRP$ : -4.74678613616266
+leftattach IN <- JJS : -1.60451987980399
+rightattach NNPS -> NNS : -3.17910664119332
+rightattach WDT -> JJR : -4.83496139857966
+rightattach PRP -> NN : -2.57963489950025
+rightattach JJR -> CC : -3.86853214998968
+rightattach FW -> RBS : -4.6767525021172
+leftattach VBP <- PRP$ : -3.0029840343323
+rightattach PRP -> VBZ : -1.95834439431945
+leftattach DT <- JJR : -2.50092248196561
+rightattach RP -> EX : -6.35619685404872
+rightattach PDT -> IN : -3.69886459556365
+leftattach VBN <- NNP : -4.05347231381511
+leftattach VBP <- VBG : -2.21722948779233
+rightattach NNS -> VBP : -2.18797180494871
+rightattach VBZ -> RB : -2.25351201135652
+leftattach RB <- VBG : -2.39223141225378
+rightattach PRP$ -> DT : -3.62981591284054
+leftattach WDT <- MD : -5.16316990801926
+rightattach RBS -> VBZ : -3.43903235484834
+leftattach VBZ <- CC : -3.13204517288441
+leftattach PRP <- CC : -3.39311886254875
+rightattach RBS -> VBP : -3.92830359137709
+rightattach TO -> CC : -5.2418348710779
+rightstop JJR nochild : -0.330126908006787
+rightattach PRP$ -> RBS : -6.44208527392422
+leftattach CD <- VBD : -4.18389685228194
+rightattach RBR -> CC : -4.90993804682279
+rightattach JJR -> NNS : -1.61958672032768
+leftattach MD <- IN : -4.56636745601616
+leftattach RBR <- NNPS : -6.27160846126086
+leftcontinue VB haschild : -1.14063726007991
+leftattach IN <- WDT : -2.53576318211869
+rightattach VBZ -> FW : -8.39726426390516
+leftattach PRP <- WP : -2.85143207629701
+rightattach EX -> VBD : -2.43788325406254
+leftattach RB <- UH : -4.51412381377884
+leftattach NN <- VBN : -2.19969694133149
+rightattach UH -> RB : -2.60578189946285
+leftstop WRB haschild : -0.292983844993007
+rightstop PRP nochild : -0.406738419736287
+rightattach NNS -> NN : -2.33581735565987
+leftstop VB nochild : -0.412212631924113
+leftattach JJ <- JJR : -3.34399389772751
+rightattach JJ -> NNS : -1.59015779324175
+leftattach RP <- RBS : -5.02140249975666
+leftattach JJR <- WDT : -4.59896774876346
+rightcontinue RBR haschild : -1.36356309135881
+leftattach IN <- JJ : -2.29783690199587
+leftstop PRP$ nochild : -0.324112786016613
+rightattach NNPS -> RB : -2.94340672920609
+leftattach NNP <- CD : -2.27956210149215
+leftattach VBN <- CD : -4.24141153425083
+rightattach PDT -> JJ : -2.74839629728337
+leftattach NNS <- WRB : -3.20788192172454
+rightattach VBD -> UH : -6.51800798113039
+rightattach MD -> JJS : -7.85490562355321
+leftattach VBN <- WP : -4.53998185945303
+leftattach RBS <- RB : -8.02996927371514
+rightattach NNS -> PRP$ : -5.32556651849254
+rightattach VBP -> JJ : -2.11537971443191
+leftattach FW <- VBN : -7.17233563939788
+leftattach NN <- WP : -2.88194654355703
+rightattach EX -> DT : -2.25975154711243
+leftattach MD <- PRP : -3.99713787499322
+rightattach NNPS -> WP : -5.64784405554194
+rightattach DT -> VBD : -3.32221633103977
+rightattach VBG -> VBD : -3.99655893628796
+rightattach MD -> MD : -6.61783930964991
+leftattach NN <- CC : -1.77751720809735
+rightattach VBG -> IN : -2.25186081662245
+leftattach JJ <- WP : -4.21346603204448
+rightattach IN -> FW : -8.26305114801651
+rightattach NNS -> CD : -2.93668932007001
+leftattach VBG <- WP : -3.54112249996654
+leftattach EX <- VBN : -6.75163476390319
+leftattach UH <- CC : -8.14274981305345
+leftattach CD <- CD : -1.63344560457467
+rightattach JJS -> TO : -4.13450833619154
+rightattach MD -> IN : -2.94016032748527
+leftattach UH <- JJ : -7.6268676598543
+rightattach WRB -> TO : -4.23729420272665
+leftattach CC <- FW : -3.27209634259507
+rightattach FW -> CC : -4.6767525021172
+leftattach NNP <- VBP : -3.40249577600549
+leftattach VBG <- WDT : -3.79541807784406
+rightattach RB -> VBP : -3.60462846281715
+rightattach WP -> DT : -2.58427251558968
+leftattach CD <- DT : -4.04450704003153
+rightattach VBZ -> VBN : -2.72927622859146
+rightattach RBR -> EX : -5.46905207528907
+rightattach JJS -> JJR : -5.10861283418798
+leftattach PRP <- WDT : -3.28303089655958
+leftstop WRB nochild : -0.221932352580423
+rightattach IN -> WDT : -6.7470356986578
+rightattach TO -> PDT : -7.36591288860438
+leftattach IN <- NN : -2.4504142108958
+rightattach VBP -> POS : -5.98691714748206
+leftstop MD nochild : -0.429705311459775
+leftattach UH <- VBD : -8.46430035757943
+leftattach VBD <- VB : -3.50219500749681
+leftcontinue RBS haschild : -1.4667230375028
+leftattach VBD <- WP : -3.91689354387024
+rightattach TO -> MD : -6.74008331676451
+leftstop VBZ nochild : -0.430037246026514
+rightattach NNPS -> POS : -4.34347818186057
+leftattach DT <- RBS : -1.45533178974541
+rightattach MD -> VB : -0.941225008766107
+leftattach CC <- WRB : -2.22887740187503
+rightattach RBS -> MD : -4.79921313643923
+rightattach NNP -> IN : -3.1963483340275
+rightattach DT -> WRB : -7.80162897708577
+leftattach RBR <- EX : -4.50114569448925
+rightattach VBZ -> MD : -5.70608989875352
+rightcontinue NNS haschild : -1.14953963310144
+leftattach WDT <- WDT : -5.09794756600327
+rightattach RBR -> VBG : -4.50737926769965
+rightattach RBS -> VBG : -5.13644902334574
+rightattach JJ -> VBN : -4.29214464677222
+rightattach VBZ -> RP : -4.93846592418549
+rightattach VBN -> CC : -3.96300996723462
+leftattach NNPS <- PDT : -5.16377521067343
+leftattach UH <- WP : -6.03272099558112
+rightattach WRB -> RP : -5.18895467784379
+rightattach CC -> VBZ : -3.3173267213271
+leftattach RBS <- PRP : -7.60978626010539
+rightstop EX haschild : -0.516632925113182
+leftattach JJR <- DT : -6.09382932646129
+leftcontinue WP haschild : -1.47505778540451
+leftattach WP <- CD : -8.60420787483895
+leftattach NN <- RBS : -3.38982119214068
+leftattach VB <- EX : -4.38070293606177
+rightattach WDT -> JJ : -2.76178999112234
+leftattach CD <- MD : -4.60997207352893
+leftattach VBD <- PDT : -2.86719687580966
+rightstop NNP nochild : -0.36026202280266
+leftattach PDT <- NNPS : -6.8558295835094
+leftstop VBN haschild : -0.393250835883669
+leftattach RP <- WDT : -5.87400681773425
+rightattach NN -> VBP : -4.47115828541195
+leftattach JJ <- VBD : -3.22172720690742
+rightattach WDT -> WRB : -6.08765254956043
+leftattach JJ <- MD : -3.25350196680151
+leftcontinue CC haschild : -1.21347283797856
+leftattach VBP <- RP : -2.99355244695487
+leftattach VB <- PRP$ : -2.43233222411142
+rightattach POS -> RB : -3.49998746444865
+rightattach WP -> CD : -5.50355109566689
+leftcontinue JJR nochild : -1.10965024530998
+rightattach VBG -> DT : -2.23507240581494
+leftattach JJR <- PDT : -4.45547622509288
+leftstop VBP haschild : -0.238590382626586
+leftattach PDT <- NN : -7.52027419616749
+rightattach JJS -> VBD : -3.33363747296303
+rightattach VB -> NNPS : -7.15704046211797
+leftattach EX <- CC : -6.10456016843844
+rightattach WP -> VBG : -3.98434578379968
+rightattach VB -> IN : -2.25274630374371
+leftattach TO <- NNPS : -5.23228516377645
+rightattach RBR -> RP : -6.25569565039188
+rightattach WP -> WDT : -5.42776137764114
+leftattach NNS <- VBZ : -3.93147061072581
+rightstop WRB nochild : -0.41183588607927
+rightattach PRP$ -> TO : -4.55648654957269
+rightattach WDT -> VBD : -2.06362725566185
+leftattach PRP$ <- JJS : -3.82577839895059
+leftstop VBG nochild : -0.400506199828912
+rightattach MD -> CC : -4.97383787464076
+leftattach POS <- UH : -4.93954097825896
+rightattach JJ -> VBD : -3.52605935400469
+leftattach VBP <- UH : -4.19785297899903
+leftcontinue RBS nochild : -1.07537389896129
+rightattach NNP -> WP : -6.28750761585331
+leftattach CC <- RBS : -3.26591677661307
+rightattach PRP -> FW : -8.41875035232014
+rightattach WDT -> JJS : -5.49490871956948
+rightattach NNPS -> VBD : -2.12023365673271
+leftcontinue MD haschild : -1.55786908434695
+leftstop JJR haschild : -0.395699591563036
+leftstop WDT haschild : -0.297651814105678
+rightattach CD -> WRB : -9.34411546200276
+rightattach UH -> CC : -5.01492929579851
+rightattach VBD -> VBN : -2.82069122454036
+leftattach PRP <- JJ : -3.42530238099592
+leftattach NNS <- JJ : -2.91816049406616
+leftattach WRB <- EX : -5.51248152995676
+rightattach RB -> JJS : -6.72096698009186
+leftattach RBS <- VBN : -6.99785297487385
+leftattach NNPS <- RBS : -4.51902434830428
+rightattach PRP$ -> NNP : -3.32488405886977
+rightattach PRP$ -> IN : -3.10529287744173
+leftstop CD nochild : -0.421445521233979
+rightattach JJR -> DT : -3.22978790296691
+rightattach WDT -> RBR : -5.82776778982401
+leftattach NNPS <- DT : -6.51479928351624
+leftattach PRP$ <- MD : -5.36916445037685
+leftattach RP <- RP : -6.45208799277395
+rightattach WP -> WP : -6.65762099230395
+leftattach NNPS <- IN : -6.2861194265446
+leftattach NNS <- POS : -3.04249486874069
+leftstop EX nochild : -0.193013783202338
+rightattach UH -> NNS : -3.3280897283059
+leftattach IN <- VBD : -3.42737358320857
+leftattach RP <- VBD : -8.15760397698867
+leftattach NNS <- PRP : -3.17049609935222
+rightattach WRB -> FW : -6.22431480849304
+leftcontinue CD nochild : -1.06739776317868
+rightattach VB -> CD : -3.82696698042131
+leftstop RB haschild : -0.343468192834298
+leftstop TO nochild : -0.430643970872046
+leftattach MD <- RP : -3.95215670308131
+leftattach PRP$ <- IN : -5.16748500645596
+leftattach TO <- WP : -4.48521869028266
+rightattach RB -> VBN : -2.74101767318278
+rightattach DT -> PRP : -4.46210949282413
+leftattach RBR <- VB : -7.49704145973659
+rightattach MD -> FW : -8.24346124792928
+leftstop RBR nochild : -0.38866199329948
+leftattach WRB <- JJ : -5.99766736675092
+leftattach RBS <- VBZ : -7.61745785876604
+rightattach JJ -> IN : -2.7265784719406
+rightattach RP -> VBP : -4.73498102253921
+rightcontinue NNP nochild : -1.19565265599508
+leftattach EX <- VBG : -6.8905412830004
+leftattach VBZ <- RBS : -2.69170595365039
+rightattach CC -> RBS : -7.12880355211987
+rightattach DT -> VBZ : -3.11156971640224
+leftattach NNPS <- JJR : -7.09611947797011
+leftattach RBR <- DT : -5.94159804251054
+leftattach VBP <- WDT : -3.38862097615821
+leftattach RBR <- TO : -6.35435033200361
+rightattach DT -> CD : -3.56388743876545
+rightattach RBR -> JJ : -1.27241072991742
+rightattach WP -> EX : -6.65762099230395
+leftattach VBP <- VBZ : -4.74003899185628
+rightattach JJR -> MD : -4.96349202580927
+rightattach TO -> RP : -5.56746635739194
+leftattach IN <- FW : -3.14646527587046
+rightattach POS -> JJ : -2.34603296296519
+rightattach RBR -> WRB : -6.25569565039188
+rightattach RBR -> WP : -6.25569565039188
+leftattach FW <- IN : -8.45709027040015
+leftattach CC <- WDT : -3.8570964628345
+rightattach POS -> WP : -7.48499214095869
+rightattach VBD -> RBR : -5.18214658662741
+rightattach JJS -> PRP : -3.48120707221717
+leftattach VB <- JJS : -4.91573567872368
+rightattach VBG -> FW : -8.17743313975924
+leftattach NNP <- NNS : -2.81040425058063
+rightattach WDT -> EX : -6.08765254956043
+leftattach DT <- VBZ : -2.0329120907717
+leftcontinue VBD nochild : -1.04441052458544
+rightattach VBP -> WP : -6.01727738746529
+rightstop IN haschild : -0.288412996363449
+rightattach WDT -> VBG : -4.25975686329022
+rightattach VBP -> CD : -3.95953697813914
+rightattach JJ -> FW : -7.75461680501162
+leftattach JJR <- JJ : -6.10861927074788
+rightcontinue CC nochild : -1.04101423768866
+leftattach WP <- FW : -3.954113110678
+leftattach JJS <- PRP$ : -5.24305046924667
+rightattach CD -> UH : -9.34411546200276
+rightattach CD -> EX : -7.67560862508681
+leftattach WRB <- UH : -4.93954097825896
+leftattach VBG <- JJS : -4.71606135484428
+rightcontinue VBD nochild : -1.12603191361085
+leftstop VBD haschild : -0.263363632990554
+rightattach MD -> NN : -2.49186357549546
+rightattach RBS -> VBN : -3.09046458396048
+rightattach RP -> TO : -3.7332408241355
+rightattach NN -> EX : -7.54596151606148
+rightattach JJ -> NNP : -3.08082969164395
+leftattach NNPS <- VBN : -6.10728097915613
+rightattach NNP -> CD : -2.7568329940871
+rightattach WP -> VBP : -2.82301990455434
+rightattach PRP -> VBP : -2.16983341867197
+rightattach WDT -> CC : -4.70561557152864
+rightattach POS -> JJS : -4.25199800467377
+leftattach RBS <- WDT : -5.87400681773425
+rightattach PRP -> VB : -2.94250580349219
+rightattach WRB -> VB : -2.7432470204988
+leftstop EX haschild : -0.104848059585815
+rightattach VBP -> TO : -3.25598292988578
+leftattach VBN <- VBN : -3.78438048811009
+leftattach MD <- MD : -6.43373775594717
+leftattach WDT <- RBR : -6.18843342658257
+rightattach VBP -> RBR : -5.32725523371275
+rightattach EX -> MD : -3.21256435950636
+leftattach PDT <- JJR : -7.09611947797011
+leftattach NN <- VBG : -2.43470151774323
+leftstop RBS nochild : -0.41728999979524
+rightcontinue TO haschild : -1.48911146956335
+rightattach RP -> JJ : -2.72728928835196
+rightattach UH -> VBG : -5.01492929579851
+leftattach NN <- CD : -2.13229710269404
+rightattach IN -> PDT : -6.33018726636923
+leftattach RBS <- PRP$ : -7.49752897190734
+leftattach WDT <- RB : -6.22387019407276
+leftattach TO <- FW : -4.74075668578081
+rightattach VBG -> RBS : -8.17743313975924
+rightattach VBZ -> RBS : -7.07275759589475
+leftattach UH <- EX : -5.51248152995676
+rightattach FW -> IN : -3.42849468871863
+leftattach PDT <- PDT : -5.16377521067343
+rightattach CC -> NNP : -2.24337686428501
+rightattach FW -> JJR : -4.6767525021172
+leftattach JJS <- WP : -6.03272099558112
+rightattach PRP$ -> WP : -6.50398435807237
+rightattach EX -> PDT : -6.53619978567726
+leftattach TO <- RBS : -4.24721410919359
+leftattach VBP <- RBS : -3.34957722979449
+rightcontinue JJR haschild : -1.32311376926558
+leftattach RP <- JJR : -7.09611947797011
+rightstop VBZ nochild : -0.398324171452953
+rightattach NNP -> MD : -4.29480687178751
+rightattach PDT -> PRP : -4.43077263599789
+rightattach VB -> NN : -1.845412355263
+leftattach NNP <- VBZ : -1.65486795694582
+rightattach NNS -> NNS : -2.73353135409289
+leftattach NNS <- UH : -2.98748536688683
+rightattach IN -> EX : -6.72270800104595
+leftcontinue MD nochild : -1.0518264762908
+leftattach VBD <- DT : -2.66784821724382
+leftattach RBS <- NNPS : -6.8558295835094
+rightattach NNP -> VBD : -2.52133361824942
+leftattach CD <- NNP : -4.3470022395902
+leftattach IN <- DT : -1.75969596572931
+leftattach VBP <- JJ : -3.15227615174506
+rightattach FW -> RB : -3.27163911085278
+rightattach PDT -> JJR : -5.42047121956896
+leftcontinue PDT haschild : -1.46088545628545
+rightattach WP -> JJS : -5.56705736062792
+rightattach WRB -> PRP$ : -4.80659255669546
+leftattach NNS <- CD : -2.93835154823485
+rightattach MD -> POS : -6.39177498849187
+leftattach VBG <- RBS : -5.02140249975666
+leftattach FW <- RB : -8.23348678059046
+leftattach MD <- NN : -5.00463173154456
+rightattach CD -> RBS : -9.34411546200276
+rightattach TO -> RBS : -7.87792016179848
+leftattach DT <- NNS : -2.07476094377322
+leftattach WRB <- PDT : -3.5780964302346
+rightattach NNS -> VBZ : -4.27486659486163
+leftattach NNPS <- RBR : -5.14947889536066
+leftattach VB <- DT : -2.87918385521393
+leftattach WP <- NN : -6.34714680140013
+leftattach JJS <- VBP : -5.02463210640659
+leftattach PDT <- VBP : -6.473362034642
+rightattach RBS -> RP : -4.69019865233774
+leftattach POS <- NNS : -4.65127045515527
+leftattach POS <- VBG : -5.26233402638478
+rightattach FW -> VBD : -3.54497390822221
+rightattach JJS -> PRP$ : -4.14031527910988
+rightattach NNP -> NNS : -3.12423489982893
+rightattach WDT -> TO : -3.6175081113896
+rightattach RP -> NNPS : -6.35619685404872
+rightattach WDT -> VBZ : -1.8837899185619
+leftcontinue VBD haschild : -1.46301303511761
+rightattach NNP -> WDT : -6.70178934851172
+rightattach NNPS -> JJR : -6.7969397759412
+rightattach RP -> MD : -5.80635190671829
+rightattach TO -> POS : -5.89002912468649
+leftattach TO <- VBP : -6.85543848028193
+leftattach DT <- NNPS : -1.92283107200975
+rightattach VBP -> IN : -2.59737546851651
+leftcontinue EX nochild : -1.73994878693735
+rightattach JJ -> JJ : -2.69600744370821
+leftattach RBS <- RP : -6.44366913171831
+root VBN : -3.70580180586285
+leftattach DT <- PRP : -2.86527709887107
+leftattach VBP <- WRB : -2.70213500652764
+rightattach WRB -> POS : -6.22431480849304
+leftattach VBG <- EX : -5.51248152995676
+rightattach VBN -> IN : -1.55477298016504
+leftattach RBR <- PRP : -6.17645013911664
+leftattach JJS <- WDT : -5.87400681773425
+leftattach VBD <- CD : -2.11535757738113
+leftattach PRP$ <- CD : -5.85516467394503
+leftattach VBZ <- PDT : -3.75218825372624
+leftattach VBD <- VBN : -2.32937048018235
+rightattach VBD -> WP : -7.37662825671171
+rightattach PDT -> NNPS : -5.42047121956896
+rightattach VBN -> JJS : -7.12818867178048
+rightattach RBR -> VBZ : -4.61058243856603
+rightattach VBG -> MD : -5.52832915264972
+rightattach TO -> PRP : -3.95680281686248
+leftattach NNS <- PRP$ : -3.12642467881746
+rightattach VB -> VBP : -5.29411639454764
+leftattach RBS <- FW : -4.74075668578081
+rightattach NN -> MD : -4.10039047361268
+rightattach VBD -> RBS : -7.49130949449208
+leftattach PDT <- NNP : -8.21499810300794
+leftattach FW <- WRB : -5.59460686644927
+leftattach RB <- FW : -4.74075668578081
+rightattach MD -> UH : -8.24346124792928
+rightstop VBP haschild : -0.368791100797854
+rightattach VB -> PRP$ : -3.83852103995054
+rightattach RP -> NN : -2.02815218256301
+rightattach VBP -> VBP : -4.70433007968279
+rightattach NNS -> CC : -3.64419320551407
+leftcontinue RBR nochild : -1.13309003635441
+leftcontinue FW haschild : -1.31163095837176
+leftattach UH <- PDT : -5.16377521067343
+rightattach JJ -> NN : -1.08547514800155
+leftattach VBG <- PRP : -4.05267557724758
+leftattach VBN <- EX : -4.41208829691766
+leftattach DT <- VBG : -2.51914100448363
+leftattach WDT <- UH : -4.93954097825896
+leftattach VBP <- VBN : -2.51116112955374
+rightattach TO -> UH : -7.99500378126984
+leftcontinue RB nochild : -1.1857915112847
+rightattach WP -> NNS : -3.29271750325832
+rightattach EX -> VBG : -5.29047341111121
+rightattach MD -> EX : -8.24346124792928
+leftattach WRB <- IN : -7.1915636967681
+leftattach CC <- RBR : -4.18374072537636
+leftattach JJR <- NNPS : -6.8558295835094
+leftattach JJ <- DT : -3.49225858856148
+leftattach PRP$ <- NN : -3.85906079097521
+leftattach WP <- JJS : -5.04812952364412
+leftattach CC <- NN : -3.85386136668665
+leftattach NNS <- DT : -3.07265291359665
+rightattach NNP -> RB : -3.36281145324307
+rightattach RBS -> PRP : -4.16343231007081
+rightattach VBG -> TO : -3.0412745291873
+rightattach NNS -> VB : -3.59869371957782
+leftattach JJR <- NN : -5.54124259988655
+leftattach DT <- RB : -2.61021776009064
+leftattach CC <- NNP : -3.43713114978969
+leftattach JJS <- IN : -5.76810140424675
+rightattach IN -> RP : -7.00747035445129
+rightattach DT -> MD : -4.43778484428831
+rightattach IN -> IN : -3.43845879963188
+rightattach RB -> VBZ : -3.05025177228608
+leftattach PRP <- PRP : -2.69341701793659
+leftcontinue VBG nochild : -1.1086044929063
+leftattach VBD <- PRP$ : -2.49679308527821
+leftattach VBN <- RBS : -5.02140249975666
+leftattach IN <- JJR : -3.048834433468
+rightattach WP -> CC : -5.2584671310115
+rightattach JJS -> VBZ : -4.01010938311714
+rightattach MD -> NNS : -3.32260118504925
+rightattach RP -> VBG : -3.63675937017554
+leftattach PRP$ <- JJ : -4.16626911329866
+leftattach NNPS <- VBD : -4.66993939019757
+rightattach JJR -> CD : -3.04003377671638
+leftattach NN <- MD : -1.84650075939397
+rightattach IN -> NNS : -2.34093868441281
+leftattach TO <- VBG : -5.04840394085217
+rightattach MD -> RB : -1.89217264728285
+rightstop RP haschild : -0.266300975168607
+rightattach RBS -> WRB : -5.13644902334574
+leftattach JJS <- NN : -5.71400954765673
+leftattach POS <- NN : -4.19386933635113
+leftattach NNS <- WP : -3.28425873909607
+leftattach RBR <- WDT : -5.87400681773425
+rightattach NNS -> JJ : -2.69430772406888
+rightattach POS -> VB : -4.4665506485637
+leftattach VBG <- UH : -3.03737537816651
+leftattach EX <- RP : -6.79622934154458
+leftattach VB <- FW : -4.74075668578081
+rightattach NNP -> DT : -3.38638422423381
+leftattach JJR <- RBR : -5.08494413248105
+rightattach WRB -> CC : -5.86589402585855
+rightattach CC -> VBN : -3.91554754934103
+leftattach VB <- JJ : -3.3496678154115
+leftattach WP <- VB : -5.52135210229684
+rightattach DT -> IN : -2.98854725524
+leftattach MD <- PDT : -4.725689184396
+leftattach RP <- RB : -6.02551232260625
+leftattach UH <- JJR : -6.46770520089843
+leftattach JJR <- VBN : -6.44574350495885
+rightcontinue UH nochild : -1.60593039017073
+leftattach DT <- WDT : -2.30736547691355
+leftattach VB <- WDT : -3.00954590961124
+rightattach VBN -> NNPS : -6.7910859256662
+rightattach EX -> VBZ : -1.78651348052933
+leftattach VBD <- JJS : -3.27834009937123
+rightattach POS -> RBR : -6.04355981429379
+leftattach TO <- NN : -4.21634579883147
+rightattach NNPS -> PDT : -6.7969397759412
+leftattach RBR <- VBN : -6.74937238021605
+rightattach VBN -> VBP : -5.27660688658425
+rightcontinue DT nochild : -1.04717827402832
+rightstop NN nochild : -0.296953058965924
+rightattach WP -> JJ : -3.62033031834407
+leftattach WDT <- DT : -6.51089116429704
+rightattach RBR -> MD : -5.15847152225269
+rightattach VBZ -> NNP : -2.74617490916281
+leftattach RB <- PDT : -2.19062606813437
+rightattach WP -> NNP : -3.09882679818224
+leftattach NNPS <- JJ : -5.99640471543068
+rightattach RB -> WP : -5.69850346215804
+rightattach NNPS -> NNP : -1.57843330960399
+leftattach EX <- NNPS : -6.8558295835094
+rightattach CD -> RB : -3.51979000254861
+rightattach JJ -> WP : -7.94920748638784
+rightattach UH -> VBN : -3.8577085795332
+rightattach PRP$ -> VB : -4.37181401461073
+leftattach JJ <- WRB : -3.18235639424538
+leftattach RB <- NN : -3.31409612024068
+rightattach FW -> DT : -4.37974802439516
+leftattach VBD <- NNS : -3.51574752346516
+leftstop WDT nochild : -0.362985986157224
+leftcontinue RB haschild : -1.2354842552605
+rightattach VBD -> WDT : -7.24486754789234
+rightattach MD -> WDT : -7.02477566668407
+rightattach WP -> RB : -3.15704860003739
+leftattach PRP <- NN : -3.83035851992982
+rightattach CC -> VBD : -3.19385379766286
+rightstop RP nochild : -0.302035941646603
+rightattach NNPS -> CC : -3.3714396792885
+leftattach WRB <- WDT : -5.87400681773425
+leftattach NN <- UH : -1.97702348138607
+leftattach TO <- DT : -3.63621877730599
+rightattach VBP -> WRB : -6.00717949718821
+rightattach UH -> IN : -3.62053005528547
+rightattach VBD -> MD : -5.45102145394297
+rightattach PDT -> TO : -4.47264014258443
+leftattach POS <- TO : -5.58623436346432
+leftattach JJS <- DT : -6.3862461670751
+rightattach RBR -> VB : -4.66527776053773
+leftattach NNS <- JJS : -3.12495691489109
+leftattach VBZ <- JJ : -2.68109447654993
+leftattach CD <- EX : -3.78448169731111
+leftattach PRP <- VBG : -2.75183166120235
+leftattach RBS <- JJS : -6.12988633659188
+leftattach VB <- VBN : -2.84006735591102
+leftattach NNPS <- VBP : -4.44369976921254
+leftattach VBN <- IN : -2.87646514591155
+leftattach VB <- WP : -3.0779825883549
+leftattach VBD <- NNPS : -5.2489143332876
+rightattach VBP -> JJR : -4.89349798445752
+rightattach DT -> RB : -3.3719487983663
+rightattach CC -> NNS : -2.21134466791968
+rightattach IN -> MD : -5.29045663643926
+rightattach WDT -> NNPS : -6.08765254956043
+rightattach JJR -> PDT : -6.11634867448241
+leftattach PRP$ <- PDT : -4.74684361777677
+rightattach DT -> NNS : -2.41391997245344
+rightattach CC -> UH : -6.54708745810756
+rightattach CD -> NNS : -2.05521864346662
+leftattach CD <- POS : -4.74013152597936
+rightattach VBZ -> POS : -5.44349259134995
+leftattach NN <- PDT : -2.97110057901539
+rightattach VBP -> NN : -2.22436255606263
+leftattach WP <- UH : -4.93954097825896
+rightattach JJR -> WRB : -6.85803667374235
+rightattach EX -> PRP$ : -5.84202548226665
+rightattach NNS -> NNP : -3.30241106306528
+leftattach VBD <- VBD : -4.41449800479705
+rightattach VBN -> FW : -8.56136055762835
+rightattach NNS -> PRP : -4.196557747636
+leftattach FW <- VB : -9.07745342570732
+leftattach WDT <- WP : -5.0213851601136
+leftattach RB <- RBR : -2.12067359387751
+leftattach IN <- PDT : -1.53853645394371
+rightattach VBP -> RBS : -7.19611459356248
+rightstop VBN nochild : -0.322892696159656
+rightattach PDT -> POS : -4.81070970632234
+leftattach VBN <- JJ : -3.87832184831993
+leftattach EX <- JJR : -4.51821036759055
+leftattach NNS <- IN : -2.36569652766716
+leftattach FW <- VBD : -8.25785689099416
+rightcontinue WDT nochild : -1.04003767893994
+rightstop WDT nochild : -0.436091387917664
+rightattach NNS -> PDT : -7.92304384114364
+leftattach EX <- WDT : -4.75969401077704
+rightattach DT -> WDT : -6.6785513324978
+rightstop NNPS haschild : -0.386503367009362
+leftattach NNPS <- NN : -6.431092289052
+leftattach CD <- VBN : -4.03249166025793
+root VBG : -4.32902238468742
+rightattach VB -> RP : -4.2695249995722
+rightattach NN -> PRP$ : -5.556649621276
+leftattach RBS <- IN : -7.34071751823523
+leftattach NNPS <- NNS : -6.29321177018938
+rightattach PRP -> JJ : -3.00291292960657
+leftcontinue DT nochild : -1.40059579625179
+leftattach WP <- NNPS : -5.81738581630774
+rightattach POS -> NN : -0.982686433512065
+rightattach VBD -> PRP$ : -4.45906241671534
+leftattach WRB <- MD : -4.37667764395965
+rightattach CD -> NNPS : -6.94679507538837
+leftattach VB <- RBS : -3.12579313291846
+rightattach FW -> VBP : -4.6767525021172
+rightattach PRP -> VBG : -3.95794759680907
+rightattach NN -> NNS : -2.28923115115343
+rightattach NNP -> RBR : -7.05141774047673
+leftattach VB <- NN : -3.70206008174393
+leftattach WP <- VBZ : -4.19410042015481
+rightattach NN -> PRP : -4.05826246518319
+rightattach POS -> POS : -5.41798259522626
+rightcontinue PRP$ haschild : -1.28810407891854
+leftattach TO <- RB : -5.17625771882097
+rightattach WP -> FW : -5.87097741720114
+leftattach CD <- PDT : -4.34779195105586
+leftattach DT <- JJS : -1.43799199678067
+rightattach IN -> VBD : -3.94259744641745
+rightattach POS -> NNP : -2.41513650555051
+rightattach VBD -> JJR : -4.53034011320977
+leftattach NNPS <- MD : -5.32900477257381
+rightattach NNS -> JJR : -5.11118995459222
+rightattach PRP -> MD : -3.00271718369692
+rightattach WDT -> FW : -6.08765254956043
+leftattach NNS <- RBR : -2.39723222928891
+rightattach JJR -> VBG : -4.74833993028734
+leftattach CC <- POS : -4.5020957401034
+leftattach RB <- WDT : -3.46298802295747
+leftcontinue VBZ nochild : -1.05120841723153
+leftattach RBR <- RBS : -5.02140249975666
+root JJ : -2.65937361109285
+rightattach WP -> NNPS : -5.84669077608762
+rightattach NN -> WDT : -6.04637748399171
+leftattach WP <- TO : -5.63149968223508
+rightattach VBZ -> VBG : -3.31387833043944
+rightattach VBG -> PRP$ : -3.87726193920293
+leftattach WP <- WP : -6.03272099558112
+rightattach JJS -> CD : -3.13241865561436
+rightcontinue NNS nochild : -1.36962546011974
+leftattach FW <- NNPS : -6.8558295835094
+rightattach VB -> NNP : -3.0022908532812
+rightattach VBN -> TO : -2.90975113553251
+rightattach MD -> WRB : -6.34665560140037
+leftattach NN <- NNP : -2.61688093314374
+root VBD : -3.03950997501952
+rightattach PRP$ -> PRP$ : -5.9934662326022
+rightattach PDT -> NN : -2.28049422969692
+leftattach VBG <- NNS : -3.88980660364453
+rightattach VB -> EX : -7.78860550058309
+leftattach VBZ <- VBD : -5.23972864065869
+leftattach MD <- CD : -5.84741045679418
+rightattach RB -> RB : -2.59406928111847
+rightattach VBN -> MD : -5.36009910523488
+leftattach TO <- MD : -6.11064122982387
+rightattach JJ -> CD : -3.44024918423007
+rightattach VBN -> VBD : -4.40298091787097
+leftattach VBD <- VBZ : -5.13481185999221
+rightattach PRP -> PDT : -7.04437913591942
+leftcontinue WRB haschild : -1.37055563829883
+leftattach VBD <- POS : -3.65497474721597
+rightattach NNP -> JJS : -7.25730488865896
+rightattach CD -> PRP : -5.49911349873679
+leftattach NNP <- WDT : -2.30881412153848
+leftattach FW <- CD : -8.18957100145156
+rightattach WP -> WRB : -6.65762099230395
+leftattach WRB <- RB : -5.83313639285397
+rightattach MD -> JJ : -3.02230563485922
+rightcontinue MD nochild : -1.05046367578745
+rightstop WDT haschild : -0.380135768645935
+leftattach EX <- NNS : -6.11279189451597
+leftattach WDT <- RP : -6.79622934154458
+rightattach WDT -> PRP : -3.74614200437268
+rightattach IN -> TO : -4.88421455636677
+rightattach EX -> POS : -6.53619978567726
+leftattach EX <- WP : -6.03272099558112
+leftattach NNP <- VBG : -2.84775616010229
+rightattach TO -> JJ : -3.12502732155941
+rightattach POS -> MD : -5.46818872973088
+leftattach JJ <- VBZ : -3.35386369251422
+leftattach RB <- RB : -2.59505630492901
+leftattach RP <- IN : -5.3824022535569
+rightattach PDT -> VBZ : -3.53086319113633
+rightattach FW -> PRP : -4.6767525021172
+leftattach PRP$ <- PRP : -5.0092312804687
+rightstop NN haschild : -0.348636379242916
+rightattach VBG -> NNP : -2.98891761846289
+rightattach UH -> NNPS : -4.75764492692995
+leftattach TO <- RBR : -4.16786159060594
+rightattach WP -> PRP$ : -4.61890371853022
+leftattach NNPS <- CD : -5.7606879455451
+rightattach RB -> WRB : -6.08618822419252
+root WP : -5.8231997158787
+rightattach NNPS -> IN : -3.26563953096025
+rightstop CD haschild : -0.248967337835019
+leftattach POS <- JJS : -2.93159476992604
+rightstop PRP$ haschild : -0.322678250344683
+rightattach RP -> RBS : -6.35619685404872
+rightattach VB -> MD : -5.9456329632625
+leftattach MD <- VBP : -6.48317286232688
+leftattach PRP$ <- FW : -3.78883400702252
+leftattach NNP <- CC : -1.7854956622816
+rightattach RP -> RP : -5.99777607141423
+leftattach NNS <- MD : -2.07348152392212
+leftattach WP <- EX : -5.51248152995676
+rightattach VBN -> RBR : -5.48811281593042
+rightattach PRP -> NNPS : -7.39354236937273
+leftattach RP <- PDT : -5.16377521067343
+rightattach VBN -> RP : -4.48128683194236
+rightattach VBP -> CC : -4.65679289165446
+leftattach JJR <- VBP : -5.98966681480306
+leftattach RP <- NNS : -6.00050714987785
+leftattach UH <- UH : -1.92703838557897
+leftattach VBN <- VBD : -5.32513505879932
+rightattach NN -> JJ : -3.02485621160125
+leftattach WP <- VBN : -6.47464621627054
+rightattach NNS -> RB : -2.59435039446099
+leftattach PRP$ <- POS : -5.68256534999234
+leftattach NNS <- PDT : -3.40129238874972
+rightattach RBS -> WP : -5.13644902334574
+rightattach WP -> PDT : -5.59847155591653
+rightattach IN -> RB : -3.69706725976961
+rightattach PDT -> FW : -5.42047121956896
+rightattach VBZ -> CD : -3.26288273353929
+rightattach TO -> JJR : -5.53478864404426
+leftattach WDT <- FW : -4.74075668578081
+leftattach RB <- RP : -2.75040319669105
+leftattach VBZ <- NNPS : -4.59380055187307
+leftattach JJ <- JJ : -2.82767851456249
+leftattach VB <- NNP : -4.13618765060621
+rightattach JJR -> WP : -6.85803667374235
+rightattach RB -> PDT : -6.74625125221691
+rightattach JJR -> JJ : -3.11773921275466
+rightcontinue IN nochild : -1.05231561277172
+rightattach RB -> TO : -3.79821644437695
+leftattach VBD <- RP : -2.28633034416302
+leftattach JJS <- MD : -5.82745695040403
+leftattach IN <- VBG : -2.47390952365527
+rightattach JJ -> VB : -4.31019150919233
+rightattach NN -> NNP : -2.93658501271726
+leftattach VBG <- NN : -4.25708189992064
+rightattach JJ -> CC : -4.02059783623906
+rightstop NNPS nochild : -0.316839875886354
+rightattach VBD -> TO : -2.80284778430643
+rightattach EX -> WP : -6.53619978567726
+rightattach POS -> PRP : -4.97422208720454
+rightcontinue RP nochild : -1.34442904163659
+rightattach CD -> POS : -6.58089372152787
+leftattach WDT <- NNP : -7.43475292059321
+leftattach RB <- NNS : -3.43078781030834
+rightattach EX -> NNS : -2.86037808136769
+rightattach JJS -> VBG : -4.62233663149499
+rightattach DT -> FW : -7.2788331027161
+leftattach NNP <- UH : -3.18450836473634
+rightattach VBG -> CC : -4.47105029348363
+rightattach WRB -> UH : -6.22431480849304
+leftattach WDT <- JJ : -6.56830697293726
+leftattach CC <- VB : -3.65096625071482
+rightattach VBD -> RB : -2.45821807958432
+leftattach JJR <- IN : -4.61937401849318
+leftattach NNP <- EX : -3.55754474382586
+leftattach JJ <- IN : -2.89715438128065
+leftattach JJ <- NNPS : -2.99483473936872
+rightattach VB -> JJR : -4.49607923320691
+leftcontinue IN haschild : -1.17988025240412
+leftattach DT <- POS : -2.49139365364765
+leftattach UH <- VBG : -8.24673264884279
+rightattach POS -> IN : -3.37866928447036
+leftattach FW <- WDT : -5.87400681773425
+rightattach JJR -> VBN : -4.28109056165357
+rightattach DT -> WP : -6.83931984381417
+leftattach TO <- VBZ : -5.77457600020008
+rightattach CC -> NNPS : -4.98798575007393
+rightattach DT -> NNPS : -5.31628709203664
+leftattach PRP <- DT : -3.0761804895132
+leftattach NN <- VBP : -2.86452217662102
+leftattach NN <- RBR : -2.18193373612215
+rightattach VB -> VBD : -4.55479138052145
+rightattach RP -> POS : -4.63751941233672
+leftattach UH <- DT : -6.98522986734848
+leftstop NNP haschild : -0.31796911037195
+rightattach MD -> VBD : -5.61181641932319
+leftattach JJR <- JJS : -5.03885975146547
+rightattach JJR -> POS : -6.33382875577998
+leftattach JJS <- RBS : -5.02140249975666
+rightattach VBN -> VBN : -3.32052608349662
+leftattach RBS <- JJR : -7.09611947797011
+leftattach VB <- POS : -4.20333960542952
+leftattach JJS <- POS : -6.49168129002264
+leftcontinue JJS nochild : -1.25627708568672
+rightattach NNPS -> UH : -6.7969397759412
+rightattach PRP$ -> FW : -6.95316024315965
+leftattach PRP$ <- TO : -5.54596452401731
+rightattach WRB -> NNS : -2.68993007597447
+leftattach DT <- JJ : -1.69158607502021
+rightattach RBR -> FW : -6.25569565039188
+leftattach JJ <- NNP : -3.41577517933103
+leftattach CD <- WRB : -5.59460686644927
+leftattach RBR <- RB : -6.50567924977283
+rightattach NN -> VBN : -3.62950894195976
+rightattach PDT -> VBG : -4.28147583678946
+rightattach PDT -> WP : -4.67046117711447
+leftattach VBP <- EX : -4.13566828852983
+leftattach RB <- VBD : -2.99220212137385
+leftattach EX <- NN : -5.92791499365644
+rightcontinue NNPS nochild : -1.30359937488233
+leftattach MD <- NNS : -5.10960064998271
+leftattach EX <- RB : -5.7659336775345
+leftattach RBS <- DT : -7.66199591025747
+rightattach IN -> POS : -5.1764646486365
+rightattach WP -> RP : -5.25381400671716
+rightattach PDT -> RBR : -5.42047121956896
+leftattach PRP$ <- RB : -5.39913659852473
+rightattach DT -> POS : -5.28296868228778
+leftattach NNP <- PRP$ : -2.79417768634801
+rightattach CC -> VB : -3.37821871878013
+leftattach RBR <- IN : -5.35462619020967
+leftattach POS <- FW : -4.74075668578081
+leftattach NN <- PRP : -2.40671664510716
+rightattach PRP -> NNS : -3.59689193899721
+leftattach WRB <- NNP : -7.02863564793264
+rightattach RB -> VBD : -3.13191585060118
+leftattach VBN <- PRP : -4.09459434580138
+leftattach UH <- NNP : -7.54152959433956
+leftattach VBN <- JJS : -4.70773913898029
+leftattach FW <- VBP : -8.75793584028979
+leftattach CD <- VBZ : -5.01457280837393
+rightcontinue FW nochild : -1.32001448294596
+rightattach VBN -> JJ : -2.54082777870428
+leftattach DT <- WRB : -3.0267125659204
+leftattach VBP <- VBP : -4.63552674203727
+rightcontinue VBN nochild : -1.28754118328116
+rightattach TO -> WP : -7.1781535870391
+leftattach WP <- VBG : -5.43921007953069
+leftstop JJ haschild : -0.380534607842875
+leftstop NN nochild : -0.396112835243782
+leftattach TO <- VB : -1.82218424418018
+root JJR : -5.47963652052213
+rightattach VB -> JJ : -2.36159198553436
+rightattach EX -> NNP : -4.18934500061203
+leftattach UH <- VBZ : -8.36074451590112
+root NN : -1.91244953510597
+rightattach JJ -> RBS : -9.06643571723973
+leftattach RB <- PRP : -2.27599047871197
+rightattach TO -> RBR : -6.31318043227511
+root IN : -2.71218383453799
+rightstop CC haschild : -0.403116496620615
+rightattach NNP -> TO : -3.90934775784392
+leftattach DT <- PDT : -3.33030267637365
+leftattach PDT <- RBS : -5.02140249975666
+rightattach WP -> UH : -6.65762099230395
+rightattach WP -> IN : -2.76884321347455
+rightattach NNP -> WRB : -8.12981071854516
+leftattach PDT <- VBG : -6.943354370201
+leftattach NNPS <- RP : -6.43173167192464
+leftattach CD <- JJR : -3.27791438829812
+leftattach EX <- JJS : -6.12988633659188
+rightattach NN -> JJR : -5.51682482395351
+leftattach NNS <- NNS : -3.01483260246243
+rightattach DT -> NN : -1.02339318106523
+rightcontinue DT haschild : -1.14691788819561
+leftattach RBR <- NNP : -6.86081011190749
+rightattach FW -> VB : -4.6767525021172
+leftattach CC <- JJS : -2.71205649226709
+leftattach CD <- RB : -3.73218952983153
+rightattach VBZ -> PRP : -3.69336532586413
+rightattach RB -> PRP$ : -4.79081456642604
+rightattach NNP -> PRP : -4.7186124317708
+leftattach RP <- CC : -5.81253681202479
+rightattach UH -> WDT : -5.01492929579851
+leftattach IN <- VB : -4.04700473605956
+rightattach VBP -> NNS : -2.63706565490818
+leftattach VBZ <- NN : -3.29713768367399
+rightattach DT -> TO : -4.51725767524854
+leftstop PRP$ haschild : -0.365678394639869
+rightcontinue NNPS haschild : -1.13764974432816
+rightattach CC -> POS : -5.90628272780599
+leftattach WDT <- VBN : -6.3132304572201
+rightattach JJ -> VBP : -3.97404806173863
+leftattach NNS <- NNPS : -4.12422613473575
+rightattach JJ -> TO : -3.87325501981837
+leftattach JJS <- PDT : -5.16377521067343
+rightattach WP -> VBN : -4.24237887420788
+leftstop JJ nochild : -0.381623375732769
+leftattach VBZ <- CD : -3.68467724479431
+leftattach RB <- POS : -3.70694533819507
+leftattach UH <- TO : -6.35748459352643
+rightattach CC -> MD : -4.13023035695475
+rightattach POS -> PDT : -7.48499214095869
+leftattach NNP <- JJS : -3.18840425111827
+root VBP : -3.66302910937408
+leftattach PDT <- EX : -5.51248152995676
+leftattach RP <- TO : -6.20401047214588
+leftattach NNP <- MD : -2.10828607722992
+leftstop NN haschild : -0.380644121122247
+leftcontinue CD haschild : -1.07681424631562
+rightattach VBN -> POS : -5.60476190992375
+rightattach WDT -> PRP$ : -5.30506577521118
+rightattach VBP -> JJS : -6.23254401804065
+leftattach NNP <- DT : -2.80920631955305
+leftattach RP <- MD : -7.58193384040451
+leftattach WP <- NNP : -6.40080040125007
+rightattach PRP -> VBD : -2.10711107455622
+leftattach RP <- VB : -7.28969161368264
+rightattach VBD -> POS : -5.56811333486948
+leftattach POS <- WP : -6.03272099558112
+leftcontinue TO haschild : -1.16712449381919
+rightattach PRP -> PRP : -3.49402466313357
+rightcontinue VBD haschild : -1.17850487731563
+leftattach IN <- RBS : -2.71175525783282
+rightattach NNPS -> MD : -4.10108680906486
+rightattach IN -> CD : -2.1577521055498
+rightattach IN -> PRP$ : -4.23920617592937
+leftattach EX <- RBR : -6.44831818631899
+leftattach IN <- VBP : -3.43271440508442
+leftattach NNPS <- CC : -4.54466612546336
+leftcontinue TO nochild : -1.05008021685288
+rightattach VB -> CC : -4.36576818526515
+leftattach WRB <- NN : -6.70612726497054
+leftattach POS <- WDT : -5.87400681773425
+rightattach VBD -> NNS : -2.95006562432542
+leftattach EX <- FW : -4.74075668578081
+rightattach IN -> WRB : -6.9626037614463
+rightattach WRB -> JJ : -2.46295535959616
+leftattach CC <- PDT : -3.01914240467721
+leftattach VBD <- NN : -3.37652437644225
+rightattach UH -> PRP : -2.73418436305441
+rightattach VB -> TO : -3.43189704946723
+leftattach RP <- RBR : -5.07078632952163
+rightattach UH -> POS : -5.01492929579851
+leftattach RB <- WP : -2.02677026950189
+rightstop VBD nochild : -0.392032175565279
+leftattach CC <- UH : -2.64270117896022
+leftattach JJ <- RP : -3.85490898632503
+leftattach RB <- VBP : -2.74013101349296
+rightattach UH -> TO : -2.62159750505731
+rightcontinue NN haschild : -1.22298463086448
+rightattach VB -> VBZ : -4.42871392759001
+rightattach JJS -> VB : -4.34864311442925
+rightattach NN -> RBR : -5.99699970742017
+rightattach POS -> WRB : -7.48499214095869
+rightattach VBZ -> WP : -5.67160353063948
+leftattach TO <- VBN : -4.74212787983855
+leftattach WDT <- VB : -6.14243499340258
+rightattach CD -> NN : -1.79360164278107
+rightattach VBG -> JJR : -5.05874325851903
+rightattach CC -> JJS : -5.50176878800949
+rightattach TO -> TO : -5.08925566128209
+rightattach CC -> WRB : -5.55158615546447
+leftattach NN <- VBD : -1.54766410691569
+rightattach JJ -> JJS : -7.62644776946455
+leftattach VB <- VBP : -5.12819723120486
+rightattach NNP -> EX : -8.31760117334886
+rightattach VBG -> WRB : -8.17743313975924
+leftattach CC <- VBP : -3.25855017126381
+rightstop RBR haschild : -0.295375455385277
+leftattach JJ <- PRP : -3.08121220258614
+leftattach VB <- PDT : -3.00999272510103
+leftattach CD <- IN : -2.77992436183658
+leftattach TO <- EX : -4.79435706631062
+leftattach DT <- IN : -2.58035949845297
+leftattach VB <- RP : -2.27135643029429
+rightattach POS -> RBS : -5.81726264240186
+rightattach NNPS -> CD : -2.83212623497792
+rightattach RBR -> DT : -2.49905880584669
+rightattach JJS -> RBS : -6.39156963339692
+rightattach IN -> UH : -7.62456391515418
+rightattach VBP -> VB : -3.22573462025045
+leftattach RP <- NNP : -6.31218065517181
+rightattach VBD -> CC : -4.7305707304143
+leftattach RB <- DT : -2.61258880053187
+rightattach PRP -> WRB : -6.84585001130042
+leftattach VBP <- TO : -3.18504614372214
+leftattach RBR <- JJR : -7.09611947797011
+rightstop RBS nochild : -0.437189076580693
+leftattach VBZ <- NNP : -3.42709776451789
+leftattach CD <- JJS : -4.43747752078599
+rightattach VB -> UH : -7.77559101079351
+leftattach VBG <- RBR : -3.67068523142922
+leftattach RB <- IN : -2.83394048073353
+rightattach RP -> VB : -4.46061146849569
+leftattach NNP <- WP : -2.08672772820346
+leftattach VBN <- NN : -4.14960845896716
+rightattach PDT -> NNS : -2.21988754369534
+rightattach JJ -> POS : -6.36921082055808
+leftattach PRP <- RBR : -3.26889050563988
+leftattach EX <- VBZ : -4.33637882459412
+leftattach EX <- UH : -4.93954097825896
+leftattach VBZ <- TO : -2.84343064714734
+rightattach EX -> RB : -2.94396642467712
+rightattach MD -> VBP : -6.00797077284224
+leftstop PRP nochild : -0.220875412021983
+rightattach JJS -> NN : -1.48623116418953
+leftattach VBN <- PDT : -4.27797389308432
+leftattach IN <- RBR : -3.57980131052387
+leftattach MD <- VBZ : -6.37964795326473
+leftattach FW <- JJ : -7.51088741889607
+rightattach JJ -> VBZ : -3.75534652812803
+rightstop VBN haschild : -0.308935149713235
+leftattach EX <- EX : -5.51248152995676
+leftattach IN <- RP : -3.99145971879796
+rightattach IN -> VBZ : -4.16450973080673
+leftattach VBZ <- UH : -4.56792892404524
+leftattach PDT <- IN : -8.04727303034483
+root NNP : -2.10648290549476
+leftattach JJS <- VBZ : -6.84970516868753
+leftattach PRP$ <- NNP : -5.52337833289527
+rightattach JJS -> CC : -5.39496210623846
+leftattach TO <- RP : -3.7917941852172
+rightattach PRP$ -> RBR : -6.22878016475805
+leftattach VBG <- NNPS : -5.03100806309344
+root POS : -5.09423880727937
+rightattach JJS -> MD : -4.25200548597343
+rightattach VBG -> CD : -3.47471655074293
+leftattach RBR <- UH : -4.93954097825896
+leftattach POS <- VBP : -5.70858910392381
+leftattach MD <- TO : -4.59117363475383
+rightattach NNPS -> VBG : -4.36450984881188
+rightattach FW -> NN : -2.49346952793235
+rightattach VB -> POS : -5.55069910905315
+rightattach JJR -> RBS : -6.16355348763966
+rightattach VBP -> EX : -7.55483991954092
+rightattach IN -> JJS : -5.42715376039112
+rightattach RBS -> PDT : -5.13644902334574
+leftattach VBD <- FW : -2.99523852259898
+leftattach WDT <- VBD : -5.33871669490759
+rightattach NN -> RB : -2.99303835515608
+rightattach VBD -> PRP : -3.60739390945752
+rightattach JJS -> NNP : -3.53506598079959
+leftattach NNPS <- TO : -5.90641806050124
+leftcontinue CC nochild : -1.54990178476393
+rightattach VBP -> VBZ : -4.27201208196989
+rightattach VB -> WDT : -6.11148657422256
+rightattach MD -> CD : -4.28384286729048
+rightattach VBN -> UH : -8.56136055762835
+rightcontinue RBS nochild : -1.03803276402047
+rightattach PRP$ -> VBZ : -3.26557152987734
+rightattach VBD -> JJ : -2.46728700857815
+rightattach DT -> EX : -8.34994088491777
+rightattach NN -> VBG : -4.47613136835908
+leftattach VBD <- VBG : -2.97750189459372
+rightcontinue WRB nochild : -1.08599121536231
+leftcontinue EX haschild : -2.30720905364213
+rightattach FW -> WDT : -4.6767525021172
+rightattach CC -> IN : -3.13012146213538
+rightattach VBZ -> IN : -2.46740093796069
+leftattach VBZ <- RB : -2.46129934507604
+leftattach VBN <- VBP : -5.51852408894871
+leftattach RP <- VBP : -7.14636117490596
+leftattach TO <- JJS : -4.64534258922032
+rightattach WRB -> PDT : -4.75293106020271
+leftattach VBG <- NNP : -4.85505539158408
+rightattach VB -> FW : -8.90736960468851
+leftattach RBS <- UH : -4.93954097825896
+leftattach NNS <- JJR : -2.58530512866007
+rightstop TO nochild : -0.433913189086499
+rightcontinue WP haschild : -1.04488129633925
+rightstop POS nochild : -0.425480267173508
+leftattach EX <- VBD : -5.16736874581275
+leftattach VBP <- VBD : -5.28223252170295
+rightattach RP -> VBN : -4.73142348633063
+rightattach JJ -> RBR : -6.46217016348316
+rightattach RBS -> JJ : -1.14489889308144
+rightattach VBG -> WP : -5.75492381317123
+leftattach VBG <- VBP : -5.02891906921371
+root DT : -2.48976083523428
+rightattach VB -> DT : -2.02838473094202
+leftattach POS <- PDT : -5.16377521067343
+leftattach MD <- JJS : -5.79265044968537
+rightattach RBR -> TO : -3.8736092795191
+leftattach FW <- CC : -8.14274981305345
+rightattach PRP$ -> EX : -7.69484824241959
+leftattach CC <- NNPS : -3.2666665312991
+leftattach VBP <- RBR : -2.93200597181288
+leftattach JJ <- NNS : -1.82694575138317
+leftattach WRB <- JJR : -7.09611947797011
+rightattach JJ -> RP : -6.70655224579229
+leftattach VB <- VBD : -5.22013664381692
+leftattach RB <- EX : -1.4647208915211
+leftattach JJS <- UH : -4.93954097825896
+rightattach VBD -> RP : -4.85766473517719
+leftattach VBN <- NNS : -4.08915549931984
+rightattach WRB -> NNPS : -5.41338459227671
+rightattach VBP -> VBG : -2.82490990598787
+leftattach JJ <- PDT : -3.34031429421659
+leftattach WDT <- JJR : -6.09822845845087
+rightattach WDT -> IN : -3.17454558056581
+rightattach MD -> WP : -7.01189367647171
+rightattach PDT -> DT : -0.982101169703415
+rightcontinue WDT haschild : -1.1512809555334
+leftattach PRP$ <- NNPS : -5.58288740354811
+rightattach NNP -> UH : -8.40983534925927
+rightstop VBZ haschild : -0.375397320305111
+leftattach FW <- PRP : -8.61565337617294
+rightattach VBG -> PRP : -3.51341011596276
+leftattach PDT <- NNS : -6.62769939283551
+leftattach PDT <- POS : -6.81394909972916
+leftattach DT <- NNP : -2.37216927838958
+rightattach VBP -> WDT : -6.45465946805875
+rightattach VB -> JJS : -7.63325855770455
+leftattach WRB <- PRP : -4.60594903966
+rightattach MD -> JJR : -4.9572030711682
+leftattach RBS <- RBS : -5.02140249975666
+leftattach FW <- NNS : -8.42919011325347
+rightattach FW -> VBG : -4.6767525021172
+leftattach MD <- FW : -4.74075668578081
+rightattach WRB -> VBG : -4.01862962570308
+leftattach WDT <- PRP : -6.33373837038575
+leftattach VBG <- PRP$ : -3.19608851854639
+rightattach NNPS -> FW : -6.7969397759412
+leftattach VBD <- WRB : -3.70419248875755
+rightattach EX -> JJS : -6.53619978567726
+leftattach CD <- TO : -2.36040290598615
+rightattach RB -> NNP : -3.26284221877686
+leftattach POS <- PRP : -6.06861708955185
+leftattach PDT <- RB : -8.46418808589354
+leftattach RBS <- WRB : -5.59460686644927
+leftattach JJR <- NNS : -4.68832171130973
+leftattach JJS <- NNP : -7.03743944032347
+leftattach FW <- WP : -6.03272099558112
+leftattach VBG <- POS : -4.94550985964462
+leftattach VBZ <- JJR : -2.5703831571427
+rightattach WRB -> VBP : -3.04340673902432
+leftattach JJ <- POS : -4.13770319500691
+rightattach PRP -> TO : -3.75779663842156
+rightattach POS -> VBD : -3.15096099800848
+rightattach TO -> VBZ : -5.12112747745244
+leftattach DT <- VBP : -2.47097975913876
+leftattach CC <- JJ : -3.42084982396803
+rightattach FW -> NNP : -2.21262981597029
+leftattach RBR <- CC : -6.86869252371404
+rightcontinue WRB haschild : -1.00900270709797
+leftattach VBG <- RP : -2.5605552773372
+rightattach EX -> RBS : -6.53619978567726
+rightattach MD -> RP : -5.31510485416942
+rightattach NNS -> MD : -3.69860884072109
+rightattach FW -> NNPS : -4.6767525021172
+rightstop IN nochild : -0.429442839412283
+leftattach VB <- IN : -3.24363030681705
+leftattach JJS <- NNPS : -5.60040384652905
+leftattach TO <- WRB : -4.41635618127912
+leftattach NNS <- TO : -2.61845626422904
+rightattach PDT -> WRB : -5.42047121956896
+root UH : -6.24289800423507
+leftattach PRP$ <- WDT : -5.4993572042936
+leftstop IN haschild : -0.367180703387359
+rightattach RBS -> VBD : -4.13101111662435
+rightattach NNP -> VBP : -4.91572607992216
+leftattach PDT <- VB : -7.83829631593928
+leftattach RBR <- RBR : -6.00206781531099
+leftattach JJR <- RB : -6.34683436630342
+rightattach RBR -> PRP : -3.79524845572187
+rightattach TO -> JJS : -7.16466968350009
+leftattach MD <- JJR : -3.9263419816483
+leftattach NNP <- NNPS : -0.764881852473623
+leftattach IN <- WRB : -2.66614838129581
+leftcontinue FW nochild : -1.19703396222612
+rightattach RP -> PRP$ : -3.5009699194928
+leftattach JJ <- RB : -3.38474191343846
+rightattach VBN -> PDT : -7.64684518648424
+leftattach WP <- DT : -5.51578138751148
+leftattach JJR <- WP : -6.03272099558112
+rightattach PDT -> RBS : -5.42047121956896
+rightstop MD haschild : -0.374883779620418
+leftattach POS <- JJR : -4.964881829609
+leftattach NN <- DT : -2.46997530590445
+leftattach VBP <- VB : -3.441374719043
+leftattach RBS <- NNS : -7.34380872340296
+rightattach WP -> RBR : -5.65193902922276
+leftattach NNP <- JJ : -3.01628312407554
+rightattach EX -> NN : -2.0409720787952
+rightattach WDT -> NN : -2.68301676801456
+leftattach VB <- TO : -3.36451650462361
+leftattach VBD <- MD : -4.05452592968035
+leftattach NNPS <- VBZ : -5.87242875065887
+rightattach JJS -> NNS : -1.8255835852256
+rightattach RBR -> RB : -3.15454524491291
+rightattach RBS -> POS : -5.13644902334574
+leftattach PDT <- UH : -4.93954097825896
+rightattach NN -> FW : -7.34201827671539
+rightattach VBZ -> DT : -2.0895210715589
+rightattach NN -> PDT : -8.16264770040421
+leftattach NNPS <- VBG : -5.82731705490315
+leftstop JJS nochild : -0.335070040195137
+leftattach EX <- DT : -5.2142929187445
+leftattach DT <- RP : -3.04600531497194
+leftattach RBS <- VBD : -8.3855406623486
+leftattach WDT <- PDT : -5.16377521067343
+leftattach CD <- JJ : -3.75185280975554
+rightattach NN -> NN : -1.80227824058703
+rightattach CD -> CD : -1.0800618813914
+leftattach WRB <- FW : -4.74075668578081
+leftattach NN <- JJ : -2.59704317445469
+leftattach WP <- WDT : -4.44336742853244
+rightattach WRB -> MD : -2.69724541662582
+leftattach JJR <- RBS : -4.29015583266716
+leftattach EX <- POS : -7.50171622824888
+leftattach VBP <- POS : -4.62893868700046
+leftattach NN <- VBZ : -1.4769544081282
+rightattach POS -> VBP : -4.4630056391916
+leftattach NN <- IN : -1.67684267681718
+rightattach JJR -> EX : -6.34907077421055
+leftattach VBG <- JJR : -4.08050657802317
+leftattach VBP <- PDT : -3.14450637829982
+rightattach VBD -> VB : -3.80350142968855
+leftattach IN <- UH : -2.73361452741489
+leftstop FW nochild : -0.359663536038594
+rightattach CC -> JJ : -2.37613015046947
+leftattach WDT <- PRP$ : -6.79099919760709
+leftstop RP haschild : -0.422517537706656
+leftattach VBP <- RB : -2.71807549397953
+leftattach NNS <- RBS : -2.83026152808781
+rightattach WRB -> VBN : -3.79908995771602
+leftattach IN <- CD : -2.11005262093925
+leftattach JJR <- VBZ : -6.34578276803263
+leftattach FW <- VBG : -8.24673264884279
+leftstop RBR haschild : -0.406606028418655
+leftattach RP <- DT : -5.40309736655843
+leftattach NNP <- VB : -2.90720513708736
+rightattach CC -> RBR : -6.67292002683294
+rightattach MD -> PDT : -7.82127549303404
+leftattach IN <- VBN : -3.43192799566475
+rightattach NNS -> RP : -5.76617141854765
+rightattach WDT -> VBN : -3.37444365267848
+leftattach MD <- RBS : -4.49054538955629
+rightattach VBG -> RP : -3.85026277979197
+leftattach VBP <- NNP : -4.60830548695078
+leftattach VBP <- PRP : -3.0134350167206
+leftattach VBN <- TO : -3.17972899182226
+leftattach WDT <- RBS : -4.17594581105457
+leftattach VBN <- RB : -3.90034872375799
+leftattach JJS <- CC : -6.91876851827588
+rightattach RP -> PDT : -6.35619685404872
+leftattach WP <- PRP : -4.25342162739129
+rightattach CC -> VBG : -4.19928168728594
+leftattach VBG <- VBZ : -5.43440044998485
+rightattach NNS -> DT : -3.04258420983352
+rightcontinue RB haschild : -1.20616402036028
+rightattach NNS -> FW : -8.27628709956229
+leftattach WRB <- RBR : -6.44831818631899
+leftattach TO <- NNS : -4.26628952904999
+leftstop VBZ haschild : -0.24845540802681
+rightattach JJ -> WRB : -7.28280581993502
+rightattach FW -> VBN : -3.1075307824486
+rightattach VBP -> MD : -5.26755310179892
+rightstop POS haschild : -0.29980364095798
+leftattach VBZ <- FW : -3.76955327381438
+leftattach WRB <- NNPS : -5.81738581630774
+root CD : -2.88480316329776
+rightattach UH -> MD : -3.93628364024067
+leftstop WP nochild : -0.244487689242623
+leftattach RBS <- RBR : -6.44831818631899
+rightattach VBG -> VBG : -4.54170921184114
+leftattach JJS <- RB : -6.6559985199301
+leftattach RB <- NNPS : -4.10539423288687
+leftattach EX <- NNP : -7.57361274618404
+leftcontinue VBZ haschild : -1.51414883287843
+rightattach JJ -> PRP : -4.10675786930609
+rightattach RBR -> NNS : -3.15733359628286
+leftattach VBN <- MD : -4.88729630042203
+rightattach RB -> VBG : -3.70104288309842
+rightattach RB -> NNS : -3.04341699225231
+leftattach RBS <- VB : -8.02903383871436
+leftattach TO <- PRP : -4.04066460224693
+rightcontinue VB nochild : -1.15164497530682
+leftattach RBS <- EX : -5.51248152995676
+leftattach VBP <- IN : -3.5939558544779
+leftattach RBR <- VBP : -6.79456660356703
+leftattach JJ <- FW : -2.74551890596591
+rightattach NNPS -> RBS : -6.29456162448882
+leftattach PDT <- RP : -6.79622934154458
+leftattach DT <- CC : -2.77694832536903
+rightattach PRP -> RP : -4.98279180919813
+leftattach MD <- RBR : -4.18255137472181
+rightattach VBD -> VBG : -4.14615019098487
+rightattach PDT -> EX : -5.42047121956896
+leftattach VBN <- JJR : -4.48595729650412
+leftattach JJ <- EX : -3.92760205765562
+leftcontinue JJ nochild : -1.14807193620976
+leftstop TO haschild : -0.372892436158852
+leftcontinue RP haschild : -1.06535574927264
+leftattach VBZ <- VBN : -2.27387419259399
+rightattach VBN -> VBZ : -4.90771121559589
+rightattach VB -> WP : -6.01952398413084
+rightattach VBD -> NNPS : -7.71897608750399
+leftattach POS <- DT : -6.12442110863589
+rightcontinue PDT haschild : -1.12425761185442
+leftattach VBD <- EX : -3.19751858856319
+rightattach FW -> EX : -4.6767525021172
+rightattach DT -> PDT : -8.5401511066641
+leftattach PDT <- PRP : -7.60514727053391
+leftattach UH <- FW : -4.74075668578081
+rightstop RB haschild : -0.35573731918637
+leftattach IN <- IN : -3.39517079207276
+rightattach UH -> JJ : -2.78788515365618
+rightattach RBR -> RBR : -5.90313544056561
+leftattach PRP$ <- VB : -5.64749398511499
+leftattach NN <- EX : -2.67131061541576
+leftattach WRB <- VBG : -5.93284755950053
+rightattach PDT -> RB : -4.39839479951502
+rightattach DT -> JJR : -5.6355349923277
+rightattach VBZ -> CC : -4.36846320193499
+leftattach NNPS <- FW : -4.74075668578081
+leftattach IN <- NNP : -2.2154400542864
+leftattach NNP <- NN : -2.7572087372208
+rightattach MD -> RBR : -5.83925715774492
+rightattach CD -> DT : -3.64202101836588
+leftcontinue NN haschild : -1.15018265765157
+rightattach PRP$ -> RB : -3.6501924798699
+rightattach VBZ -> TO : -3.38711715687497
+leftattach JJS <- VBN : -6.28539675627841
+rightcontinue NNP haschild : -1.1158655363819
+leftattach NN <- PRP$ : -2.73816817318305
+rightattach DT -> DT : -3.52102333365707
+leftattach RBR <- FW : -4.74075668578081
+rightattach RBR -> CD : -3.6313981101494
+rightattach FW -> RBR : -4.6767525021172
+rightattach VBN -> PRP$ : -5.14484920146956
+rightattach PRP -> WDT : -6.96013323735283
+rightcontinue RBR nochild : -1.22550615932115
+root PRP : -3.28165023407942
+leftattach RBR <- VBG : -6.54841251488248
+rightattach UH -> PDT : -5.01492929579851
+rightattach PRP -> IN : -2.94370458692198
+leftstop JJS haschild : -0.284555682459968
+root WDT : -6.69885085586297
+rightattach JJR -> UH : -6.85803667374235
+rightattach NNS -> VBN : -3.25672575887821
+leftattach DT <- VBN : -2.62110801728239
+rightattach JJR -> FW : -6.85803667374235
+rightattach JJS -> RP : -5.44893319177964
+rightattach FW -> PRP$ : -3.35150514930366
+rightattach CD -> VBZ : -5.1263599147923
+leftattach PRP <- IN : -3.35552255225707
+rightattach RBS -> WDT : -5.13644902334574
+rightattach MD -> NNPS : -7.05251925202452
+rightattach NN -> CD : -2.71752833172445
+rightattach NN -> DT : -3.06478701874338
+rightstop DT nochild : -0.432209428437227
+rightstop WRB haschild : -0.453472848622376
+leftattach JJS <- VBG : -6.38051251454299
+rightattach VBD -> NNP : -3.06528417961236
+leftattach RB <- CD : -3.44989006301576
+rightattach NNP -> RBS : -8.45889808714335
+leftattach RBS <- POS : -7.50171622824888
+rightattach JJS -> WRB : -5.61738124283385
+rightattach POS -> NNPS : -5.67047040829828
+rightattach VBP -> RB : -2.05442656482139
+leftattach MD <- EX : -5.51248152995676
+rightattach WP -> RBS : -6.65762099230395
+leftattach VBD <- RBS : -3.05925494899338
+rightattach VBD -> NN : -2.12410383765463
+leftattach RBR <- PRP$ : -6.32069863482303
+rightattach UH -> PRP$ : -3.40951605611284
+leftattach VBN <- DT : -3.73276860129911
+rightattach MD -> PRP$ : -4.75379152315443
+leftattach NNPS <- NNP : -4.85610183827884
+rightattach VBG -> VBZ : -4.37615905541765
+leftattach FW <- MD : -8.10489921872111
+leftattach VBG <- MD : -5.25338683561399
+rightattach VB -> NNS : -2.5364953530088
+leftattach PDT <- WRB : -5.59460686644927
+leftattach CC <- MD : -3.29230390736518
+leftattach UH <- RBS : -5.02140249975666
+rightattach UH -> JJR : -4.54617229044162
+leftattach WP <- RP : -5.30109297267431
+leftattach JJS <- RP : -5.93605954812745
+leftstop UH haschild : -0.417356465052484
+rightattach VBZ -> JJ : -2.13551069978621
+leftattach RBS <- TO : -7.27311407882463
+leftattach CD <- VBG : -4.35831876497064
+rightattach UH -> WP : -5.01492929579851
+leftattach RBS <- CD : -8.92855278589279
+leftattach PRP <- NNP : -4.29728101937881
+rightattach RBS -> JJS : -5.13644902334574
+leftcontinue RBR haschild : -1.09633434573455
+rightattach MD -> TO : -4.04815609346882
+leftattach FW <- NNP : -7.46253173311397
+rightattach FW -> RP : -3.66541666664969
+rightattach VB -> WRB : -5.33787489063922
